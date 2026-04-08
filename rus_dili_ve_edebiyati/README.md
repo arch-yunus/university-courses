@@ -1,17 +1,55 @@
-# Rus Dili ve Edebiyatı
+# 🇷🇺 Rus Dili ve Edebiyatı
 
-Bu klasör **Rus Dili ve Edebiyatı** bölümüne ait akademik notlar, araştırmalar ve dökümanlar içindir.
-
+## 🎯 Amaç
+Rus dili grameri, Rus edebiyatı tarihi, Slavistik, çeviri ve Rus kültürü.
 
 ---
 
-## 📂 Çekirdek Ders Ağacı
-Akademik sistem entegrasyonu kapsamında bu bölüm için önerilen ve standartlaştırılmış ders/çalışma klasörleri:
+## 📚 Temel Dersler
+- **Rusça Dil Bilgisi (Fonetik, Morfoloji, Sözdizimi)**
+- **Rus Edebiyatı Tarihi (Puşkin'den Tolstoy'a)**
+- **Modern Sovyet ve Post-Sovyet Edebiyatı**
+- **Çeviri Teknikleri (Rusça-Türkçe)**
+- **Rus Kültürü ve Medeniyeti**
+- **Slavistik Araştırmalar**
+- **Akademik Rusça Yazım**
+- **Karşılaştırmalı Edebiyat**
 
-- [01 Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
-- [02 Alan Dersleri ve Pratik](02_Alan_Dersleri/)
-- [03 Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
-- [04 Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
+---
+
+## 🔧 Kullanılan Araçlar ve Teknolojiler
+| Alan | Araçlar / Teknolojiler |
+|------|------------------------|
+| Sözlük | Ozhegov, Ushakov, Multitran |
+| Corpus | Russian National Corpus (RNC) |
+| Çeviri | PROMT, SDL Trados (Rusça desteği) |
+| Akademik | eLIBRARY.ru, Cyberleninka |
+
+---
+
+## 🚀 Kariyer Alanları
+- **Rusça Öğretmeni / Akademisyen**
+- **Çevirmen / Diplomat**
+- **Enerji Sektörü Uzmanı (Rusya İlişkileri)**
+- **Turizm Rehberi (Rusça)**
+- **Uluslararası Ticaret Uzmanı**
+- **Medya / Gazetecilik (Rusça)**
+
+---
+
+## 📊 Gelecek Trendler
+- **Post-Sovyet Edebiyatı ve Kimlik Çalışmaları**
+- **Dijital Beşerî Bilimler (Rus korpus çalışmaları)**
+- **Eurasian Studies ve Jeopolitik Araştırma**
+- **Rusça NLP Modelleri (ruBERT)**
+
+---
+
+## 📂 Ders Ağacı
+- [01 Temel Bilimler ve Giriş](01_Temel_Bilimler_ve_Giris/)
+- [02 Alan Dersleri](02_Alan_Dersleri/)
+- [03 Seçmeli & İleri Uygulama](03_Secmeli_ve_Ileri_Uygulama/)
+- [04 Araştırma ve Bitirme](04_Arastirma_ve_Bitirme/)
 
 > [!TIP]
-> Yeni bir ders eklerken ana dizindeki `DERS_SABLONU.md` dosyasını kopyalayarak ilgili alt klasörün içine koyabilir ve kolayca kendi not şablonunuzu oluşturabilirsiniz!
+> Yeni bir ders eklerken `DERS_SABLONU.md` dosyasını kopyalayarak ilgili alt klasörün içine koy!

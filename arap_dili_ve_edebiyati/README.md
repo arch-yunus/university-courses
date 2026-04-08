@@ -1,17 +1,55 @@
-# Arap Dili ve Edebiyatı
+# 🌙 Arap Dili ve Edebiyatı
 
-Bu klasör **Arap Dili ve Edebiyatı** bölümüne ait akademik notlar, araştırmalar ve dökümanlar içindir.
-
+## 🎯 Amaç
+Arap dili grameri, klasik ve modern Arap edebiyatı, İslam medeniyeti ve Kur'an dili.
 
 ---
 
-## 📂 Çekirdek Ders Ağacı
-Akademik sistem entegrasyonu kapsamında bu bölüm için önerilen ve standartlaştırılmış ders/çalışma klasörleri:
+## 📚 Temel Dersler
+- **Arap Dil Bilgisi (Sarf ve Nahiv I-IV)**
+- **Klasik Arap Edebiyatı**
+- **Modern Arap Edebiyatı**
+- **Kur'ân Dili ve Üslubu**
+- **Çeviri Teknikleri (Arapça-Türkçe)**
+- **Arap Kültürü ve Medeniyeti**
+- **Arap Belağati (Beyan, Meani, Bedi)**
+- **Mukayeseli Edebiyat**
 
-- [01 Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
-- [02 Alan Dersleri ve Pratik](02_Alan_Dersleri/)
-- [03 Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
-- [04 Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
+---
+
+## 🔧 Kullanılan Araçlar ve Teknolojiler
+| Alan | Araçlar / Teknolojiler |
+|------|------------------------|
+| Sözlük / Referans | Lisan al-Arab, Al-Munjid, ArabiCorpus |
+| Dil Analiz | Quranic Arabic Corpus, BAMA |
+| Çeviri | Araçlar: ATA, Trados (Arapça desteği) |
+| Akademik | Al-Maktaba Al-Shamela, JSTOR |
+
+---
+
+## 🚀 Kariyer Alanları
+- **Arapça Öğretmeni / Akademisyen**
+- **Çevirmen / Mütercim**
+- **Diplomat / Dışişleri Uzmanı**
+- **İslam Araştırmacısı / Akademisyen**
+- **Uluslararası Kuruluş Uzmanı (BM, OIC)**
+- **Medya / Gazetecilik (Arapça Yayın)**
+
+---
+
+## 📊 Gelecek Trendler
+- **Arap NLP ve Yapay Zekâ Uygulamaları**
+- **Dijital Arşivleme ve Klasik Metin Analizi**
+- **Post-kolonyal Arap Edebiyatı**
+- **İkidilli Eğitim Modelleri**
+
+---
+
+## 📂 Ders Ağacı
+- [01 Temel Bilimler ve Giriş](01_Temel_Bilimler_ve_Giris/)
+- [02 Alan Dersleri](02_Alan_Dersleri/)
+- [03 Seçmeli & İleri Uygulama](03_Secmeli_ve_Ileri_Uygulama/)
+- [04 Araştırma ve Bitirme](04_Arastirma_ve_Bitirme/)
 
 > [!TIP]
-> Yeni bir ders eklerken ana dizindeki `DERS_SABLONU.md` dosyasını kopyalayarak ilgili alt klasörün içine koyabilir ve kolayca kendi not şablonunuzu oluşturabilirsiniz!
+> Yeni bir ders eklerken `DERS_SABLONU.md` dosyasını kopyalayarak ilgili alt klasörün içine koy!
