@@ -1,4 +1,4 @@
-# Gemi Insaati Ve Gemi Makineleri Muhendisligi
+# Gemi İnşaati Ve Gemi Makineleri Mühendisliği
 
 Bu klasör **Gemi Insaati Ve Gemi Makineleri Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

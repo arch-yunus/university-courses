@@ -1,4 +1,4 @@
-# Otomotiv Muhendisligi
+# Otomotiv Mühendisliği
 
 Bu klasör **Otomotiv Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

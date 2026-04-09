@@ -1,4 +1,4 @@
-# Su Urunleri Muhendisligi
+# Su Urunleri Mühendisliği
 
 Bu klasör **Su Urunleri Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

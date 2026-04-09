@@ -1,4 +1,4 @@
-# Ipek Muhendisligi Ve Serikultur
+# İpek Mühendisliği Ve Serikultur
 
 Bu klasör **Ipek Muhendisligi Ve Serikultur** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

@@ -1,4 +1,4 @@
-# Tarim Makineleri Ve Teknolojileri Muhendisligi
+# Tarim Makineleri Ve Teknolojileri Mühendisliği
 
 Bu klasör **Tarim Makineleri Ve Teknolojileri Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

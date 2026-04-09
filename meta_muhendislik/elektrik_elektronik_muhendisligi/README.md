@@ -1,4 +1,4 @@
-# Elektrik Elektronik Muhendisligi
+# Elektrik Elektronik Mühendisliği
 
 Bu klasör **Elektrik Elektronik Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

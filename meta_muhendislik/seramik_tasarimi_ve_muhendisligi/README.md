@@ -1,4 +1,4 @@
-# Seramik Tasarimi Ve Muhendisligi
+# Seramik Tasarimi Ve Mühendisliği
 
 Bu klasör **Seramik Tasarimi Ve Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

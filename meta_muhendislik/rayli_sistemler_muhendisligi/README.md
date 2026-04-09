@@ -1,4 +1,4 @@
-# Rayli Sistemler Muhendisligi
+# Raylı Sistemler Mühendisliği
 
 Bu klasör **Rayli Sistemler Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

@@ -1,4 +1,4 @@
-# Endustriyel Tasarim Muhendisligi
+# Endustriyel Tasarim Mühendisliği
 
 Bu klasör **Endustriyel Tasarim Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

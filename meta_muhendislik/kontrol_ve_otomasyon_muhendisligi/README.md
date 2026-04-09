@@ -1,4 +1,4 @@
-# Kontrol Ve Otomasyon Muhendisligi
+# Kontrol Ve Otomasyon Mühendisliği
 
 Bu klasör **Kontrol Ve Otomasyon Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

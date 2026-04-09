@@ -1,4 +1,4 @@
-# Mekatronik Muhendisligi
+# Mekatronik Mühendisliği
 
 Bu klasör **Mekatronik Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

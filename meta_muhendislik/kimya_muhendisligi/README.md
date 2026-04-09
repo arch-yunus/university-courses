@@ -1,4 +1,4 @@
-# Kimya Muhendisligi
+# Kimya Mühendisliği
 
 Bu klasör **Kimya Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

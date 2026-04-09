@@ -1,4 +1,4 @@
-# Biyokimya Muhendisligi
+# Biyokimya Mühendisliği
 
 Bu klasör **Biyokimya Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

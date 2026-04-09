@@ -1,4 +1,4 @@
-# Elektronik Ve Haberlesme Muhendisligi
+# Elektronik Ve Haberlesme Mühendisliği
 
 Bu klasör **Elektronik Ve Haberlesme Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

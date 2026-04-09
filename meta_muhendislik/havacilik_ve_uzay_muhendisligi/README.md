@@ -1,4 +1,4 @@
-# Havacilik Ve Uzay Muhendisligi
+# Havacılık Ve Uzay Mühendisliği
 
 Bu klasör **Havacilik Ve Uzay Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

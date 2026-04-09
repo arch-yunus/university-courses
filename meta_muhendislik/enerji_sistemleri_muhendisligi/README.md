@@ -1,4 +1,4 @@
-# Enerji Sistemleri Muhendisligi
+# Enerji Sistemleri Mühendisliği
 
 Bu klasör **Enerji Sistemleri Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

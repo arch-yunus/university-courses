@@ -1,4 +1,4 @@
-# Yazilim Muhendisligi
+# Yazilim Mühendisliği
 
 Bu klasör **Yazilim Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

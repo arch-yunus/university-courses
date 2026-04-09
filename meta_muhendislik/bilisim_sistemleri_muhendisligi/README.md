@@ -1,4 +1,4 @@
-# Bilisim Sistemleri Muhendisligi
+# Bilişim Sistemleri Mühendisliği
 
 Bu klasör **Bilisim Sistemleri Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

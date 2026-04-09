@@ -1,4 +1,4 @@
-# Bilgisayar Muhendisligi
+# Bilgisayar Mühendisliği
 
 Bu klasör **Bilgisayar Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

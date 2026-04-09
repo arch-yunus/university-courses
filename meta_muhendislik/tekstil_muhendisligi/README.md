@@ -1,4 +1,4 @@
-# Tekstil Muhendisligi
+# Tekstil Mühendisliği
 
 Bu klasör **Tekstil Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

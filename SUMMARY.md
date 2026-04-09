@@ -2,7 +2,7 @@
 
 Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. Tüm bölümler YÖK standartlarına ve küresel (Örn: Çin MoE) profesyonel gerekliliklere göre gruplandırılmıştır.
 
-**Toplam Kapsam:** 385 Akademik ve Profesyonel Alan (Global 7-Tier Elite Structure)
+**Toplam Kapsam:** 381 Akademik ve Profesyonel Alan (Global 7-Tier Elite Structure)
 
 ## 🛠️ Mühendislik Bilimleri
 
@@ -11,7 +11,6 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Adli Bilisim Muhendisligi | [adli_bilisim_muhendisligi](meta_muhendislik/adli_bilisim_muhendisligi/) |
 | Akilli Deniz Ekipmanlari | [akilli_deniz_ekipmanlari](meta_muhendislik/akilli_deniz_ekipmanlari/) |
 | Akilli Gorsel Isitsel Muhendislik | [akilli_gorsel_isitsel_muhendislik](meta_muhendislik/akilli_gorsel_isitsel_muhendislik/) |
-| Akilli Gorsel Muhendislik | [akilli_gorsel_muhendislik](meta_muhendislik/akilli_gorsel_muhendislik/) |
 | Akilli Malzemeler Ve Teknoloji | [akilli_malzemeler_ve_teknoloji](meta_muhendislik/akilli_malzemeler_ve_teknoloji/) |
 | Akilli Molekuler Muhendislik | [akilli_molekuler_muhendislik](meta_muhendislik/akilli_molekuler_muhendislik/) |
 | Akilli Sebeke Bilgi Ve Muhendisligi | [akilli_sebeke_bilgi_ve_muhendisligi](meta_muhendislik/akilli_sebeke_bilgi_ve_muhendisligi/) |
@@ -45,7 +44,6 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Havacilik Ve Uzay Muhendisligi | [havacilik_ve_uzay_muhendisligi](meta_muhendislik/havacilik_ve_uzay_muhendisligi/) |
 | Imalat Muhendisligi | [imalat_muhendisligi](meta_muhendislik/imalat_muhendisligi/) |
 | Insaat Muhendisligi | [insaat_muhendisligi](meta_muhendislik/insaat_muhendisligi/) |
-| Insaat Teknolojisi Muhendisligi | [insaat_teknolojisi_muhendisligi](meta_muhendislik/insaat_teknolojisi_muhendisligi/) |
 | Ipek Muhendisligi Ve Serikultur | [ipek_muhendisligi_ve_serikultur](meta_muhendislik/ipek_muhendisligi_ve_serikultur/) |
 | Isletme Muhendisligi | [isletme_muhendisligi](meta_muhendislik/isletme_muhendisligi/) |
 | Jeofizik Muhendisligi | [jeofizik_muhendisligi](meta_muhendislik/jeofizik_muhendisligi/) |
@@ -68,7 +66,6 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Orman Muhendisligi | [orman_muhendisligi](meta_muhendislik/orman_muhendisligi/) |
 | Otomotiv Muhendisligi | [otomotiv_muhendisligi](meta_muhendislik/otomotiv_muhendisligi/) |
 | Rayli Sistemler Muhendisligi | [rayli_sistemler_muhendisligi](meta_muhendislik/rayli_sistemler_muhendisligi/) |
-| Rayli Sistemler Sinyalizasyon Ve Kontrol | [rayli_sistemler_sinyalizasyon_ve_kontrol](meta_muhendislik/rayli_sistemler_sinyalizasyon_ve_kontrol/) |
 | Seramik Tasarimi Ve Muhendisligi | [seramik_tasarimi_ve_muhendisligi](meta_muhendislik/seramik_tasarimi_ve_muhendisligi/) |
 | Sevk Ve Itki Muhendisligi | [sevk_ve_itki_muhendisligi](meta_muhendislik/sevk_ve_itki_muhendisligi/) |
 | Siber Guvenlik Muhendisligi | [siber_guvenlik_muhendisligi](meta_muhendislik/siber_guvenlik_muhendisligi/) |
@@ -76,7 +73,6 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Tarim Makineleri Ve Teknolojileri Muhendisligi | [tarim_makineleri_ve_teknolojileri_muhendisligi](meta_muhendislik/tarim_makineleri_ve_teknolojileri_muhendisligi/) |
 | Tekstil Muhendisligi | [tekstil_muhendisligi](meta_muhendislik/tekstil_muhendisligi/) |
 | Tekstil Tasarimi | [tekstil_tasarimi](meta_muhendislik/tekstil_tasarimi/) |
-| Tekstil Teknolojisi Muhendisligi | [tekstil_teknolojisi_muhendisligi](meta_muhendislik/tekstil_teknolojisi_muhendisligi/) |
 | Tutun Bilimi | [tutun_bilimi](meta_muhendislik/tutun_bilimi/) |
 | Ucak Muhendisligi | [ucak_muhendisligi](meta_muhendislik/ucak_muhendisligi/) |
 | Ulasim Muhendisligi | [ulasim_muhendisligi](meta_muhendislik/ulasim_muhendisligi/) |

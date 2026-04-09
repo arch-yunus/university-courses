@@ -1,4 +1,4 @@
-# Nanoteknoloji Muhendisligi
+# Nanoteknoloji Mühendisliği
 
 Bu klasör **Nanoteknoloji Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

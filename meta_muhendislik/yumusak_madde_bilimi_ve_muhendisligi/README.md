@@ -1,4 +1,4 @@
-# Yumusak Madde Bilimi Ve Muhendisligi
+# Yumusak Madde Bilimi Ve Mühendisliği
 
 Bu klasör **Yumusak Madde Bilimi Ve Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

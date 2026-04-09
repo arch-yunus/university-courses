@@ -1,4 +1,4 @@
-# Orman Muhendisligi
+# Orman Mühendisliği
 
 Bu klasör **Orman Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

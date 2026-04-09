@@ -1,4 +1,4 @@
-# Maden Muhendisligi
+# Maden Mühendisliği
 
 Bu klasör **Maden Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

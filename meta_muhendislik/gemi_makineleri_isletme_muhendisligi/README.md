@@ -1,4 +1,4 @@
-# Gemi Makineleri Isletme Muhendisligi
+# Gemi Makineleri İşletme Mühendisliği
 
 Bu klasör **Gemi Makineleri Isletme Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

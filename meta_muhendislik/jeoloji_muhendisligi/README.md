@@ -1,4 +1,4 @@
-# Jeoloji Muhendisligi
+# Jeoloji Mühendisliği
 
 Bu klasör **Jeoloji Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

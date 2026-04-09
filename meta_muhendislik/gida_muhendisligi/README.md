@@ -1,4 +1,4 @@
-# Gida Muhendisligi
+# Gida Mühendisliği
 
 Bu klasör **Gida Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

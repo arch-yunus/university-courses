@@ -1,4 +1,4 @@
-# Dusuk Irtifa Teknolojisi Ve Iha
+# Dusuk Irtifa Teknolojisi Ve İHA
 
 Bu klasör **Dusuk Irtifa Teknolojisi Ve Iha** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

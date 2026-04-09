@@ -1,4 +1,4 @@
-# Biyomedikal Muhendisligi
+# Biyomedikal Mühendisliği
 
 Bu klasör **Biyomedikal Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

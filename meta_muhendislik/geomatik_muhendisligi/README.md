@@ -1,4 +1,4 @@
-# Geomatik Muhendisligi
+# Geomatik Mühendisliği
 
 Bu klasör **Geomatik Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

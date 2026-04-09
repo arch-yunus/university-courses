@@ -1,4 +1,4 @@
-# Sevk Ve Itki Muhendisligi
+# Sevk Ve Itki Mühendisliği
 
 Bu klasör **Sevk Ve Itki Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

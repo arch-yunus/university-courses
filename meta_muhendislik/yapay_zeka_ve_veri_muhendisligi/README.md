@@ -1,4 +1,4 @@
-# Yapay Zeka Ve Veri Muhendisligi
+# Yapay Zeka Ve Veri Mühendisliği
 
 Bu klasör **Yapay Zeka Ve Veri Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

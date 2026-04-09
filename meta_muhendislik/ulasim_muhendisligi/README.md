@@ -1,4 +1,4 @@
-# Ulasim Muhendisligi
+# Ulaşım Mühendisliği
 
 Bu klasör **Ulasim Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

@@ -1,4 +1,4 @@
-# Fizik Muhendisligi
+# Fizik Mühendisliği
 
 Bu klasör **Fizik Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

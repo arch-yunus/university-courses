@@ -1,4 +1,4 @@
-# Nukleer Kimya Muhendisligi
+# Nükleer Kimya Mühendisliği
 
 Bu klasör **Nukleer Kimya Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

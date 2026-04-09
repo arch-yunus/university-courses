@@ -1,4 +1,4 @@
-# Imalat Muhendisligi
+# Imalat Mühendisliği
 
 Bu klasör **Imalat Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

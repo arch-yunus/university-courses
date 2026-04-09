@@ -1,4 +1,4 @@
-# Yuksek Guclu Yariiletken Bilimi Ve Muhendisligi
+# Yuksek Guclu Yariiletken Bilimi Ve Mühendisliği
 
 Bu klasör **Yuksek Guclu Yariiletken Bilimi Ve Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

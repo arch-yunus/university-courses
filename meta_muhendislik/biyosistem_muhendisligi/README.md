@@ -1,4 +1,4 @@
-# Biyosistem Muhendisligi
+# Biyosistem Mühendisliği
 
 Bu klasör **Biyosistem Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

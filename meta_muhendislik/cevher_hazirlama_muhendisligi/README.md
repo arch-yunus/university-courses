@@ -1,4 +1,4 @@
-# Cevher Hazirlama Muhendisligi
+# Cevher Hazirlama Mühendisliği
 
 Bu klasör **Cevher Hazirlama Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

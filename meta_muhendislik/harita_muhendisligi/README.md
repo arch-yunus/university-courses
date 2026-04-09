@@ -1,4 +1,4 @@
-# Harita Muhendisligi
+# Harita Mühendisliği
 
 Bu klasör **Harita Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

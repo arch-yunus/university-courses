@@ -1,4 +1,4 @@
-# Metalurji Ve Malzeme Muhendisligi
+# Metalurji Ve Malzeme Mühendisliği
 
 Bu klasör **Metalurji Ve Malzeme Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

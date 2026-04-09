@@ -55,7 +55,7 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 20 stratejik konteyner altında gruplanan her alan, uzmanlık için standart bir yol sunar.
 
 <details>
-<summary><b>🛠️ Mühendislik Bilimleri (78 Alan)</b></summary>
+<summary><b>🛠️ Mühendislik Bilimleri (74 Alan)</b></summary>
 <br>
 
 | Bölüm / Alan | Akademik Odak / Misyon |
@@ -63,7 +63,6 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Adli Bilisim Muhendisligi](meta_muhendislik/adli_bilisim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Akilli Deniz Ekipmanlari](meta_muhendislik/akilli_deniz_ekipmanlari/) | Akilli deniz ekipmanlari alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Akilli Gorsel Isitsel Muhendislik](meta_muhendislik/akilli_gorsel_isitsel_muhendislik/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Akilli Gorsel Muhendislik](meta_muhendislik/akilli_gorsel_muhendislik/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Akilli Malzemeler Ve Teknoloji](meta_muhendislik/akilli_malzemeler_ve_teknoloji/) | Akilli malzemeler ve teknoloji alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Akilli Molekuler Muhendislik](meta_muhendislik/akilli_molekuler_muhendislik/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Akilli Sebeke Bilgi Ve Muhendisligi](meta_muhendislik/akilli_sebeke_bilgi_ve_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
@@ -97,7 +96,6 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Havacilik Ve Uzay Muhendisligi](meta_muhendislik/havacilik_ve_uzay_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Imalat Muhendisligi](meta_muhendislik/imalat_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Insaat Muhendisligi](meta_muhendislik/insaat_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Insaat Teknolojisi Muhendisligi](meta_muhendislik/insaat_teknolojisi_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Ipek Muhendisligi Ve Serikultur](meta_muhendislik/ipek_muhendisligi_ve_serikultur/) | İpek böcekçiliği ve tekstil mühendisliğinin ipek üretimi özelindeki kesişimi. |
 | [Isletme Muhendisligi](meta_muhendislik/isletme_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Jeofizik Muhendisligi](meta_muhendislik/jeofizik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
@@ -120,7 +118,6 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Orman Muhendisligi](meta_muhendislik/orman_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Otomotiv Muhendisligi](meta_muhendislik/otomotiv_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Rayli Sistemler Muhendisligi](meta_muhendislik/rayli_sistemler_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Rayli Sistemler Sinyalizasyon Ve Kontrol](meta_muhendislik/rayli_sistemler_sinyalizasyon_ve_kontrol/) | Rayli sistemler sinyalizasyon ve kontrol alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Seramik Tasarimi Ve Muhendisligi](meta_muhendislik/seramik_tasarimi_ve_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Sevk Ve Itki Muhendisligi](meta_muhendislik/sevk_ve_itki_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Siber Guvenlik Muhendisligi](meta_muhendislik/siber_guvenlik_muhendisligi/) | Dijital varlıkların korunması, sızma testleri ve güvenli sistem mimarileri geliştirme. |
@@ -128,7 +125,6 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Tarim Makineleri Ve Teknolojileri Muhendisligi](meta_muhendislik/tarim_makineleri_ve_teknolojileri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Tekstil Muhendisligi](meta_muhendislik/tekstil_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Tekstil Tasarimi](meta_muhendislik/tekstil_tasarimi/) | Tekstil tasarimi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Tekstil Teknolojisi Muhendisligi](meta_muhendislik/tekstil_teknolojisi_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Tutun Bilimi](meta_muhendislik/tutun_bilimi/) | Tütün bitkisinin yetiştirilmesi, endüstriyel işlenmesi ve kalite kontrol süreçleri. |
 | [Ucak Muhendisligi](meta_muhendislik/ucak_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Ulasim Muhendisligi](meta_muhendislik/ulasim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |

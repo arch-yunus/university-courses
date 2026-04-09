@@ -1,4 +1,4 @@
-# Uzay Zaman Bilgi Muhendisligi
+# Uzay Zaman Bilgi Mühendisliği
 
 Bu klasör **Uzay Zaman Bilgi Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

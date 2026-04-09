@@ -1,4 +1,4 @@
-# Deri Muhendisligi
+# Deri Mühendisliği
 
 Bu klasör **Deri Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

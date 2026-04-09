@@ -1,4 +1,4 @@
-# Cevre Muhendisligi
+# Cevre Mühendisliği
 
 Bu klasör **Cevre Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

@@ -1,4 +1,4 @@
-# Nukleer Enerji Muhendisligi
+# Nükleer Enerji Mühendisliği
 
 Bu klasör **Nukleer Enerji Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

@@ -1,4 +1,4 @@
-# Ambalaj Muhendisligi
+# Ambalaj Mühendisliği
 
 Bu klasör **Ambalaj Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

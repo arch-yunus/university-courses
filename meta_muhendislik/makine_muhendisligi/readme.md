@@ -1,4 +1,4 @@
-# Makine Muhendisligi
+# Makine Mühendisliği
 
 Bu klasör **Makine Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

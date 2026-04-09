@@ -1,4 +1,4 @@
-# Ucak Muhendisligi
+# Uçak Mühendisliği
 
 Bu klasör **Ucak Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

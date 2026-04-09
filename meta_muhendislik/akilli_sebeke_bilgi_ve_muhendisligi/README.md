@@ -1,4 +1,4 @@
-# Akilli Sebeke Bilgi Ve Muhendisligi
+# Akilli Sebeke Bilgi Ve Mühendisliği
 
 Bu klasör **Akilli Sebeke Bilgi Ve Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

@@ -1,4 +1,4 @@
-# Siber Guvenlik Muhendisligi
+# Siber Guvenlik Mühendisliği
 
 Bu klasör **Siber Guvenlik Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 

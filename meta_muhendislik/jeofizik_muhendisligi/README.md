@@ -1,4 +1,4 @@
-# Jeofizik Muhendisligi
+# Jeofizik Mühendisliği
 
 Bu klasör **Jeofizik Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 
