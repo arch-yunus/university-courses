@@ -73,59 +73,48 @@ def get_desc(folder, container):
 def generate_encyclopedic_readme():
     header = """<div align="center">
 
-![MZ-OS Hero Banner](assets/aos_hero_banner.png)
+![AOS Hero Banner](assets/aos_hero_banner.png)
 
-# 🏛️ MEDRESETÜ’Z-ZEHRA İŞLETİM SİSTEMİ (MZ-İS)
-### *Yapay Zeka Çağı İçin Kapsamlı ve Mültidisipliner Bilgi Ontolojisi* 🌐💎🚀
+# 🏛️ AKADEMİK İŞLETİM SİSTEMİ (AOS)
+### *Yapay Zeka Çağı İçin Küresel ve Mültidisipliner Bir Bilgi Ontolojisi* 🌐💎🚀
 
 [![Versiyon](https://img.shields.io/badge/VERSİYON-v2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
-[![Kapsam](https://img.shields.io/badge/KAPSAM-385_Benzersiz_Alan-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
-[![Standart](https://img.shields.io/badge/STANDART-7_Kademeli_Hiyerarşi-black?style=for-the-badge&logo=gitbook)](./)
-[![Miras](https://img.shields.io/badge/MİRAS-Medresetü’z--Zehra-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
+[![Kapsam](https://img.shields.io/badge/KAPSAM-372_Branş-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
+[![Düşünce](https://img.shields.io/badge/VİZYON-Gelecek_İçin_Bilim-black?style=for-the-badge&logo=openai&logoColor=white)](./)
 
 ---
 
-## 🏗️ Teknik Kapasite ve Metodoloji
-**Medresetü’z-Zehra İşletim Sistemi (MZ-İS)**, farklı bilgi akışlarını tek bir standart çerçevede birleştirmek için tasarlanmış yüksek yoğunluklu bir akademik ekosistemdir. **Bilimsel Tarafsızlık** ve **Ampirik Titizlik** ilkesiyle hareket eden sistem, 385 benzersiz disiplini 7 kademeli bir mimari altında sınıflandırır.
+## 📜 AOS Manifestosu: Bilgi ve Metodoloji
+**Akademik İşletim Sistemi (AOS)**, modern dünyanın parçalı bilgi yapısına karşı geliştirilmiş, mültidisipliner ustalığı hedefleyen evrensel bir bilgi çerçevesidir. **Bilimsel Metodoloji** ve **Akademik Tarafsızlık** üzerine kurulu olan AOS, 372+ branşı tek bir nizam (Systemum) altında birleştirir.
 
-> [!NOTE]
-> **Metodoloji:** Bilim ve mühendisliği temel sorgulama yöntemi olarak kullanan, katı bir akademik yaklaşım benimsiyoruz. Tüm müfredat yapıları (YÖK ve Çin MoE) profesyonel bir nesnellikle entegre edilmiştir.
+> [!TIP]
+> **Bilim bir yöntem, merak ise motorumuzdur.** AOS; aklı fenle, zihni nizamla donatan profesyonel bir akademik iskelettir.
 
 ---
 
 </div>
 
 ## ⚙️ Elit 7-Kademeli Mimari (00-06)
-Bu ontolojideki her bir disiplin, endüstriyel standartlara uygun, katı bir hiyerarşi ile yapılandırılmıştır:
+Sistemdeki her bir branş, rastgele notlar yerine **7 katmanlı elit bir niyaraşi** üzerine inşa edilmiştir. Bu yapı, bir konuyu "sıfırdan" ele alıp "endüstriyel uzmanlığa" taşıyan tek standarttır:
 
-| Kademe | Kategori | Hedef |
-| :--- | :--- | :--- |
-| **`00`** | **Akademik Hazırlık** | Dil yeterliliği ve temel oryantasyon süreci. |
-| **`01`** | **Temel Bilimler** | Alanın üzerine inşa edildiği teorik ve sayısal temel. |
-| **`02`** | **Çekirdek Modüller** | Zorunlu ana branş dersleri ve teknik uzmanlık. |
-| **`03`** | **İleri Uygulama** | Seçmeli uzmanlıklar ve usta seviyesi pratikler. |
-| **`04`** | **Araştırma & Geliştirme** | Bitirme projeleri, tezler ve orijinal akademik çıktılar. |
-| **`05`** | **Lisansüstü Yol** | Yüksek Lisans ve Doktora seviyesindeki akademik rotalar. |
-| **`06`** | **Küresel Standartlar** | Sertifikasyonlar ve endüstriyel profesyonel kıstaslar. |
+**`00`** Hazırlık **`01`** Teori **`02`** Çekirdek **`03`** Uzmanlık **`04`** Üretim **`05`** Akademi **`06`** Standart
 
 ---
 
-## 🕌 Felsefi Temeller: MZ-İS'in Ruhu
-*"Vicdanın ziyası ulûm-u diniye, aklın nuru fünun-u medeniyedir."*
+## 🕌 Vizyoner Miras ve Ruh
+AOS, modern bilimsel metodolojiyi temel **Yöntem** olarak kullanırken; ilhamını ve derinliğini, kalbi ve aklı birleştiren "Medresetü’z-Zehra" gibi kadim vizyonlardan alır.
 
-MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlhamını** ve **Etik Ruhunu** Medresetü’z-Zehra vizyonundan —kalp ve aklın imtizacından— alır.
-
-| ✍️ Düstur | 🏛️ MZ-İS Prensibi |
+| ✍️ Düstur | 🏛️ AOS Prensibi |
 | :--- | :--- |
-| **"Eyleme dökülmeyen ilim, yerinde sayan bir gölge gibidir."** | **Aktif Üretim ve Mühendislik** |
-| **"Hakikat için Din ve Fen bir arada olmalıdır."** | **Mültidisipliner Bütünlük** |
-| **"Varlığın büyük nizamını bilmek için çabala."** | **Ampirik Sorgulama ve Titizlik** |
+| **"Din ilimleriyle fen ilimlerinin imtizacı elzemdir."** | **Mültidisipliner Bütünlük** |
+| **"Eyleme dökülmeyen ilim, yerinde sayan bir gölge gibidir."** | **Aktif Üretim & Mühendislik** |
+| **"Hiç bilenlerle bilmeyenler bir olur mu?"** | **Entelektüel Üstünlük** |
 
 ---
 
-## 📚 Ansiklopedik Dizin (385 Disiplin)
+## 📚 Ansiklopedik Bölüm Dizini (372 Alan)
 
-20 stratejik konteyner altında gruplanan her alan, uzmanlık için standart bir yol sunar.
+Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder.
 
 """
 
@@ -160,10 +149,11 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 ---
 
 ## 🛠️ Profesyonel Enstrümantasyon (V.2025)
-- **Çekirdek Zeka:** Gemini 2.0 / Claude 3.5 Sonnet / GPT-o1
-- **Geliştirme & IDE:** Cursor / Windsurf
-- **Araştırma Motoru:** Perplexity Pro
+- **Çekirdek Zeka:** Gemini 2.0 / Claude 3.5 Sonnet
+- **IDE:** Cursor / Windsurf
 - **Mimari:** 7-Kademeli Standartlaştırılmış İskelet
+
+---
 
 ## ⚖️ Lisans
 Bu proje **MIT Lisansı** ile korunmaktadır.
@@ -171,7 +161,7 @@ Bu proje **MIT Lisansı** ile korunmaktadır.
 <div align="center">
 
 **Hazırlayan:** Bahattin Yunus Çetin  
-*Mühendis ve MZ-İS Mimarı*
+*Mühendis ve AOS Mimarı*
 
 [Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
 
@@ -185,7 +175,7 @@ Bu proje **MIT Lisansı** ile korunmaktadır.
     with open(os.path.join(ROOT_DIR, 'README.md'), 'w', encoding='utf-8') as f:
         f.write(full_content)
         
-    print(f"README.md updated in pure Turkish. Total: {total_count}")
+    print(f"README.md updated with AOS branding (Soul kept). Total: {total_count}")
 
 if __name__ == "__main__":
     generate_encyclopedic_readme()
