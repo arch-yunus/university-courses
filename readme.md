@@ -1,70 +1,64 @@
 <div align="center">
 
-![MZ Banner](assets/aos_hero_banner.png)
+![MZ-OS Hero Banner](assets/aos_hero_banner.png)
 
 # 🏛️ MEDRESETÜ’Z-ZEHRA OPERATING SYSTEM (MZ-OS)
-### *Aklın Nuru ve Vicdanın Ziyası: Global Bir İlim-Fen Ekosistemi* 🌐💎🌙🚀
+### *A Rigorous Multidisciplinary Knowledge Ontology for the AI Era* 🌐💎🚀
 
-[![Kurucu](https://img.shields.io/badge/KURUCU-Bahattin%20Yunus-black?style=for-the-badge&logo=github&logoColor=gold)](https://github.com/bahattinyunus)
-[![Vizyon](https://img.shields.io/badge/VİZYON-Medresetü’z--Zehra-18453B?style=for-the-badge&logo=target)](./)
-[![Kapsam](https://img.shields.io/badge/KAPSAM-385_Bölüm-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
-[![İdeoloji](https://img.shields.io/badge/İDEOLOJİ-Zülcenahayn-00A9E0?style=for-the-badge&logo=openai&logoColor=white)](./)
+[![Versiyon](https://img.shields.io/badge/VERSION-v2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
+[![Kapsam](https://img.shields.io/badge/SCOPE-385_Unique_Areas-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
+[![Standard](https://img.shields.io/badge/STANDARD-7--Tier_Hierarchy-black?style=for-the-badge&logo=gitbook)](./)
+[![Heritage](https://img.shields.io/badge/HERITAGE-Medresetü’z--Zehra-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
 
 ---
 
-## 📜 MZ-OS Manifestosu: İlim ve Fenin Mezci
+## 🏗️ Technical Magnitude & Methodology
+**Medresetü’z-Zehra Operating System (MZ-OS)** is a high-density academic ecosystem designed to harmonize diverse knowledge streams into a single, standardized framework. Leading with **Scientific Neutrality** and **Empirical Rigor**, the system categorizes 385 unique disciplines into a unified 7-tier architecture.
 
-> **"Vicdanın ziyası ulûm-u diniyedir, aklın nuru fünun-u medeniyedir. İkisinin imtizacıyla hakikat tecelli eder. O iki kanat ile talebenin himmeti pervaz eder."**
-
-**Medresetü’z-Zehra Operating System (MZ-OS)**, Bediüzzaman Said Nursi'nin dahi vizyonu olan "din ve fen ilimlerinin birleştirilmesi" idealinin dijital çağdaki tezahürüdür. Bu sistem; aklı fenle, kalbi imanla kanatlandırarak, 385+ akademik branşı evrensel bir hikmet dairesinde bir araya getirir.
+> [!NOTE]
+> **Methodology:** We utilize a strictly academic approach where science and engineering are the primary methods of inquiry. All curriculum structures (YÖK & MoE China) are integrated with professional objectivity.
 
 ---
 
 </div>
 
-## 🕌 Miras ve Rehber İlkeler: Çift Kanatlı İlim
+## ⚙️ The Elite 7-Tier Architecture (00-06)
+Every single discipline in this 385-area ontology is scaffolded into a rigorous, industry-standard hierarchy:
 
-MZ-OS ekosistemi, hakikati arayan ve teknik mükemmelliği hedefleyen bir zihin yapısı üzerine inşa edilmiştir:
-
-| ✍️ Düstur | 👤 Kaynak | 🏛️ MZ-OS Prensibi |
+| Tier | Category | Objective |
 | :--- | :--- | :--- |
-| **"Din ilimleriyle fen ilimlerinin imtizacı elzemdir."** | *Medresetü’z-Zehra Vizyonu* | **Akademik Bütünlük** |
-| **"Eyleme dökülmeyen ilim, yerinde sayan bir gölge gibidir."** | *El-Cezeri* | **Aktif Mühendislik & Üretim** |
-| **"Hiç bilenlerle bilmeyenler bir olur mu?"** | *Zümer Suresi, 9* | **Entelektüel Üstünlük** |
-| **"İlim ve medeniyet, kalple aklı birleştirenlerin omuzlarında yükselir."** | *Kadim Hikmet* | **Hikmet Odaklı Tasarım** |
-| **"Stratejisi olmayan güç, kendi kendini yok eder."** | *Fatih Sultan Mehmet* | **Stratejik Seferberlik** |
+| **`00`** | **Academic Prep** | Language proficiency and foundational orientation. |
+| **`01`** | **Basic Sciences** | The theoretical and numerical bedrock of the field. |
+| **`02`** | **Core Modules** | Essential technical expertise and required courses. |
+| **`03`** | **Advanced App** | Elective specializations and master-level practice. |
+| **`04`** | **Research & Dev** | Capstone projects, theses, and original output. |
+| **`05`** | **Graduate Path** | Master & PhD level academic trajectories. |
+| **`06`** | **Global Std** | Certifications and industrial professional benchmarks. |
 
 ---
 
-<div align="center">
+## 🕌 Philosophical Foundations: The "Soul" of MZ-OS
+*"Vicdanın ziyası ulûm-u diniye, aklın nuru fünun-u medeniyedir."*
 
-## ⚙️ Nizâm-ı Cedîd: Ultimate 7-Tier Mimari
-*"Nizam, kaosun en büyük galibidir."*
+While MZ-OS uses modern scientific methodologies as its **Method**, it derives its **Inspiration** and **Ethical Soul** from the Medresetü’z-Zehra vision—the harmonization of the heart and the mind.
 
-Her branş, rastgele bir yığın değil; **7 katmanlı profesyonel bir nizam (Systemum)** üzerine kuruludur:
-
-**`00`** Hazırlık **`01`** Teori **`02`** Çekirdek **`03`** Uzmanlık **`04`** Üretim **`05`** Akademi **`06`** Standart
-
----
-
-</div>
-
-## 💎 Neden MZ-OS?
--   **Evrensel Kapsayıcılık:** Kuantum fiziğinden İlahiyat'a, BCI mühendisliğinden Osmanlı mimarisine kadar 385 alan.
--   **Global Entegrasyon:** Çin'in (MoE) teknoloji vizyonu ve YÖK standartlarının, MZ-OS vizyonuyla harmanlanması.
--   **Karakter İnşası:** Teknik bilgiyle beraber "Monk Mode" disiplini ve Şarkın/Garbın hikmetinin birleşimi.
+| ✍️ Düstur | 🏛️ MZ-OS Principle |
+| :--- | :--- |
+| **"Knowledge without action is a shadow."** | **Active Production & Engineering** |
+| **"Faith and Science must coexist for Truth."** | **Multidisciplinary Integrity** |
+| **"Strive to know the Great Order of existence."** | **Empirical Inquiry & Rigor** |
 
 ---
 
-## 📚 Ansiklopedik Bölüm Dizini (385 Alan)
+## 📚 Encyclopedic Index (385 Disciplines)
 
-MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz odadan oluşur.
+Grouped into 20 strategic containers, each area provides a standardized path for mastery.
 
 <details>
 <summary><b>🛠️ Mühendislik Bilimleri (78 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Adli Bilisim Muhendisligi](meta_muhendislik/adli_bilisim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Akilli Deniz Ekipmanlari](meta_muhendislik/akilli_deniz_ekipmanlari/) | Akilli deniz ekipmanlari alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -151,7 +145,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>🏛️ Mimarlık ve Tasarım (14 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Cizgi Film Ve Animasyon](mimarlik_ve_tasarim/cizgi_film_ve_animasyon/) | Cizgi film ve animasyon alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Endustriyel Tasarim](mimarlik_ve_tasarim/endustriyel_tasarim/) | Endustriyel tasarim alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -174,7 +168,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>🖼️ Güzel Sanatlar (7 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Dijital Tiyatro](guzel_sanatlar/dijital_tiyatro/) | Dijital tiyatro alanında teorik ve pratik uzmanlık çalışmaları. |
 | [El Sanatlari](guzel_sanatlar/el_sanatlari/) | El sanatlari alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -190,7 +184,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>🩺 Sağlık Bilimleri (30 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Acil Yardim Ve Afet Yonetimi](saglik/acil_yardim_ve_afet_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
 | [Akupunktur Ve Moxibustion](saglik/akupunktur_ve_moxibustion/) | Akupunktur ve moxibustion alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -229,7 +223,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>🎓 Eğitim ve Öğretmenlik (15 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Beden Egitimi Ve Spor Ogretmenligi](ogretmenlik/beden_egitimi_ve_spor_ogretmenligi/) | Beden egitimi ve spor ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Bilgisayar Ve Ogretim Teknolojileri Egitimi](ogretmenlik/bilgisayar_ve_ogretim_teknolojileri_egitimi/) | Bilgisayar ve ogretim teknolojileri egitimi alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -253,7 +247,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>🏅 Spor Bilimleri (8 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Antrenorluk Egitimi](spor_bilimleri/antrenorluk_egitimi/) | Antrenorluk egitimi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Beden Egitimi Ve Spor Bilimleri](spor_bilimleri/beden_egitimi_ve_spor_bilimleri/) | Beden egitimi ve spor bilimleri alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -270,7 +264,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>⚖️ Sosyal ve Beşeri Bilimler (39 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Aktüerya Bilimleri](sosyal_ve_beseri_bilimler/aktüerya_bilimleri/) | Aktüerya bilimleri alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Antropoloji](sosyal_ve_beseri_bilimler/antropoloji/) | Antropoloji alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -318,7 +312,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>🧪 Temel Bilimler (12 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Astronomi Ve Uzay Bilimleri](temel_bilimler/astronomi_ve_uzay_bilimleri/) | Astronomi ve uzay bilimleri alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Biyoistatistik](temel_bilimler/biyoistatistik/) | Biyoistatistik alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -339,7 +333,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>📚 Edebiyat ve Diller (17 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Alman Dili Ve Edebiyati](edebiyat_ve_diller/alman_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
 | [Arap Dili Ve Edebiyati](edebiyat_ve_diller/arap_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
@@ -365,7 +359,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>📡 İletişim Bilimleri (4 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Gazetecilik](iletisim/gazetecilik/) | Gazetecilik alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Halkla Iliskiler Ve Reklamcilik](iletisim/halkla_iliskiler_ve_reklamcilik/) | Halkla iliskiler ve reklamcilik alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -378,7 +372,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>🏨 Turizm ve Gastronomi (7 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Gastronomi Ve Mutfak Sanatlari](turizm_ve_gastronomi/gastronomi_ve_mutfak_sanatlari/) | Gastronomi ve mutfak sanatlari alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Kahve Bilimi Ve Muhendisligi](turizm_ve_gastronomi/kahve_bilimi_ve_muhendisligi/) | Kahve bitkisinin üretiminden işleme teknolojilerine ve kimyasal analizine kadar tüm süreçler. |
@@ -394,7 +388,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>🌱 Tarım ve Ziraat Bilimleri (8 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Bahce Bitkileri](tarim_ve_ziraat_bilimleri/bahce_bitkileri/) | Bahce bitkileri alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Bitki Koruma](tarim_ve_ziraat_bilimleri/bitki_koruma/) | Bitki koruma alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -411,7 +405,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>⚔️ Askeri Bilimler ve Savunma (6 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Askeri Havacilik Ve Uzay](askeri_bilimler_ve_savunma_teknolojileri/askeri_havacilik_ve_uzay/) | Askeri havacilik ve uzay alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Askeri Istihbarat Analizi](askeri_bilimler_ve_savunma_teknolojileri/askeri_istihbarat_analizi/) | Askeri istihbarat analizi alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -426,7 +420,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>⚖️ Hukuk (1 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Hukuk](hukuk_bilimi/hukuk/) | Hukuk alanında teorik ve pratik uzmanlık çalışmaları. |
 
@@ -436,7 +430,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>🕌 İlahiyat ve Din (1 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Ilahiyat](ilahiyat_ve_din/ilahiyat/) | Ilahiyat alanında teorik ve pratik uzmanlık çalışmaları. |
 
@@ -446,7 +440,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>📋 Ön Lisans Programları (72 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Adalet](on_lisans_programlari/adalet/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
 | [Agiz Ve Dis Sagligi](on_lisans_programlari/agiz_ve_dis_sagligi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
@@ -527,7 +521,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>🔬 Özel Araştırma Alanları (43 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [3D Print Ai](ozel_arastirma_alanlari/3d_print_ai/) | 3d print ai alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Agro Tek Ve Topraksiz Tarim](ozel_arastirma_alanlari/agro_tek_ve_topraksiz_tarim/) | Agro tek ve topraksiz tarim alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -579,7 +573,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>🚀 Kariyer ve Sertifikasyonlar (12 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Aws Certified Architect](kariyer_ve_sertifikasyonlar/aws_certified_architect/) | Aws certified architect alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Cfa Chartered Financial Analyst](kariyer_ve_sertifikasyonlar/cfa_chartered_financial_analyst/) | Cfa chartered financial analyst alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -600,7 +594,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>🧠 Meta-Yetkinlikler ve Gelişim (8 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Finansal Okuryazarlik Ve Yatirim](meta_yetkinlikler_ve_gelisim/finansal_okuryazarlik_ve_yatirim/) | Finansal okuryazarlik ve yatirim alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Hizli Ogrenme Teknikleri](meta_yetkinlikler_ve_gelisim/hizli_ogrenme_teknikleri/) | Hizli ogrenme teknikleri alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -617,7 +611,7 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 <summary><b>📂 Genel ve Ortak Alanlar (3 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Bölüm / Alan | Academic Focus / Mission |
 | :--- | :--- |
 | [Afet Yonetimi Ve Acil Durum Teknolojileri](genel/afet_yonetimi_ve_acil_durum_teknolojileri/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
 | [Erasmus Ve Global Degisim Programlari](genel/erasmus_ve_global_degisim_programlari/) | Erasmus ve global degisim programlari alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -628,18 +622,14 @@ MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz o
 
 ---
 
-## 🛠️ Profesyonel Enstrümantasyon (V.2025)
-> "Kılıç, elin uzantısı; kalem ise aklın dilidir."
-
+## 🛠️ Professional Instrumentation (V.2025)
 - **Core Intelligence:** Gemini 2.0 / Claude 3.5 Sonnet / GPT-o1
 - **Development & IDE:** Cursor / Windsurf
-- **Research Engine:** Perplexity Pro
+- **Research Engine:** Perplexity Pro Pro
 - **Architecture:** 7-Tier Standardized Scaffolding
 
----
-
-## ⚖️ Lisans
-Bu proje **MIT Lisansı** ile korunmaktadır.
+## ⚖️ License
+This project is protected under the **MIT License**.
 
 <div align="center">
 
@@ -649,6 +639,5 @@ Bu proje **MIT Lisansı** ile korunmaktadır.
 [Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
 
 ---
-*"İlim, müminin yitik malıdır; nerede bulursa alsın."*  
-**Medresetü’z-Zehra Vizyonuyla.**
+*"İlim, müminin yitik malıdır; nerede bulursa alsın."*
 </div>
