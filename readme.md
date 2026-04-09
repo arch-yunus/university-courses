@@ -1,44 +1,44 @@
 <div align="center">
 
-![AOS Hero Banner](assets/aos_hero_banner.png)
+![MZ Banner](assets/aos_hero_banner.png)
 
-# 🏛️ AKADEMİK İŞLETİM SİSTEMİ (AOS)
-### *Medrese-i Modern: Küresel Bilim ve Kadim Mirasın Sinerjisi* 🌐💎🌙🚀
+# 🏛️ MEDRESETÜ’Z-ZEHRA OPERATING SYSTEM (MZ-OS)
+### *Aklın Nuru ve Vicdanın Ziyası: Global Bir İlim-Fen Ekosistemi* 🌐💎🌙🚀
 
 [![Kurucu](https://img.shields.io/badge/KURUCU-Bahattin%20Yunus-black?style=for-the-badge&logo=github&logoColor=gold)](https://github.com/bahattinyunus)
-[![Versiyon](https://img.shields.io/badge/VERSİYON-v2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
+[![Vizyon](https://img.shields.io/badge/VİZYON-Medresetü’z--Zehra-18453B?style=for-the-badge&logo=target)](./)
 [![Kapsam](https://img.shields.io/badge/KAPSAM-385_Bölüm-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
-[![Düşünce](https://img.shields.io/badge/DÜŞÜNCE-İlim--Amel--İhlas-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
+[![İdeoloji](https://img.shields.io/badge/İDEOLOJİ-Zülcenahayn-00A9E0?style=for-the-badge&logo=openai&logoColor=white)](./)
 
 ---
 
-## 📜 AOS Manifestosu: Hakikat Arayışı ve Teknik Üstünlük
+## 📜 MZ-OS Manifestosu: İlim ve Fenin Mezci
 
-> **"İlim, Çin'de de olsa ona talip olun."**
+> **"Vicdanın ziyası ulûm-u diniyedir, aklın nuru fünun-u medeniyedir. İkisinin imtizacıyla hakikat tecelli eder. O iki kanat ile talebenin himmeti pervaz eder."**
 
-AOS, modern bilimsel tarafsızlık ile kadim medeniyet mirasımızın yüksek disiplinini birleştiren bir "Bilgi Kalesi"dir. Bu sistem; Selçuklu'nun geometrik hassasiyetini, Osmanlı'nın nizam idealini ve modern mühendisliğin otonom gücünü tek bir potada eritir. **Bilim bir keşif süreci, mühendislik ise bu keşfi insanlığın hizmetine sunma sanatıdır.**
+**Medresetü’z-Zehra Operating System (MZ-OS)**, Bediüzzaman Said Nursi'nin dahi vizyonu olan "din ve fen ilimlerinin birleştirilmesi" idealinin dijital çağdaki tezahürüdür. Bu sistem; aklı fenle, kalbi imanla kanatlandırarak, 385+ akademik branşı evrensel bir hikmet dairesinde bir araya getirir.
 
 ---
 
 </div>
 
-## 🕌 Miras ve Vizyon: El-Cezeri'den Geleceğe
+## 🕌 Miras ve Rehber İlkeler: Çift Kanatlı İlim
 
-AOS ekosistemi, hakikati arayan ve teknik mükemmelliği hedefleyen bir zihin yapısı üzerine inşa edilmiştir:
+MZ-OS ekosistemi, hakikati arayan ve teknik mükemmelliği hedefleyen bir zihin yapısı üzerine inşa edilmiştir:
 
-| ✍️ Düstur | 👤 Kaynak | 🏛️ AOS Prensibi |
+| ✍️ Düstur | 👤 Kaynak | 🏛️ MZ-OS Prensibi |
 | :--- | :--- | :--- |
-| **"Eyleme dökülmeyen ilim, yerinde sayan bir gölge gibidir."** | *El-Cezeri (Sibernetiğin Babası)* | **Aktif Mühendislik & Üretim** |
+| **"Din ilimleriyle fen ilimlerinin imtizacı elzemdir."** | *Medresetü’z-Zehra Vizyonu* | **Akademik Bütünlük** |
+| **"Eyleme dökülmeyen ilim, yerinde sayan bir gölge gibidir."** | *El-Cezeri* | **Aktif Mühendislik & Üretim** |
 | **"Hiç bilenlerle bilmeyenler bir olur mu?"** | *Zümer Suresi, 9* | **Entelektüel Üstünlük** |
-| **"Amacı olmayan ilim, ruhsuz bir bedendir."** | *İbn Sina (Avicenna)* | **Hikmet Odaklı Tasarım** |
+| **"İlim ve medeniyet, kalple aklı birleştirenlerin omuzlarında yükselir."** | *Kadim Hikmet* | **Hikmet Odaklı Tasarım** |
 | **"Stratejisi olmayan güç, kendi kendini yok eder."** | *Fatih Sultan Mehmet* | **Stratejik Seferberlik** |
-| **"Gökleri ve yeri araştırın; o büyük nizamı keşfedin."** | *Kadim İlim Geleneği* | **Evrensel Merak & Bilim** |
 
 ---
 
 <div align="center">
 
-## ⚙️ Çelik Çerçeve: Ultimate 7-Tier Mimari
+## ⚙️ Nizâm-ı Cedîd: Ultimate 7-Tier Mimari
 *"Nizam, kaosun en büyük galibidir."*
 
 Her branş, rastgele bir yığın değil; **7 katmanlı profesyonel bir nizam (Systemum)** üzerine kuruludur:
@@ -49,16 +49,16 @@ Her branş, rastgele bir yığın değil; **7 katmanlı profesyonel bir nizam (S
 
 </div>
 
-## 💎 Neden Bu Sistem?
--   **Evrensel Kapsayıcılık:** Kuantum fiziğinden İslam Hukukuna, BCI mühendisliğinden Osmanlı mimarisine kadar 385 alan.
--   **Stratejik Entegrasyon:** Çin'in teknoloji vizyonu ve YÖK standartlarının, yerli ve milli bir stratejiyle harmanlanması.
--   **Karakter İnşası:** Teknik bilgiyle beraber Stoacı dayanıklılık ve İslam ahlakının (Meta-Yetkinlikler) birleşimi.
+## 💎 Neden MZ-OS?
+-   **Evrensel Kapsayıcılık:** Kuantum fiziğinden İlahiyat'a, BCI mühendisliğinden Osmanlı mimarisine kadar 385 alan.
+-   **Global Entegrasyon:** Çin'in (MoE) teknoloji vizyonu ve YÖK standartlarının, MZ-OS vizyonuyla harmanlanması.
+-   **Karakter İnşası:** Teknik bilgiyle beraber "Monk Mode" disiplini ve Şarkın/Garbın hikmetinin birleşimi.
 
 ---
 
 ## 📚 Ansiklopedik Bölüm Dizini (385 Alan)
 
-AOS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz odadan oluşur.
+MZ-OS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz odadan oluşur.
 
 <details>
 <summary><b>🛠️ Mühendislik Bilimleri (78 Alan)</b></summary>
@@ -644,11 +644,11 @@ Bu proje **MIT Lisansı** ile korunmaktadır.
 <div align="center">
 
 **Prepared By:** Bahattin Yunus Çetin  
-*Engineer & Academic System Architect*
+*Engineer & MZ-OS Architect*
 
 [Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
 
 ---
 *"İlim, müminin yitik malıdır; nerede bulursa alsın."*  
-**Hayırlı İlimler Dileğiyle.**
+**Medresetü’z-Zehra Vizyonuyla.**
 </div>
