@@ -76,45 +76,45 @@ def generate_encyclopedic_readme():
 ![AOS Hero Banner](assets/aos_hero_banner.png)
 
 # 🏛️ AKADEMİK İŞLETİM SİSTEMİ (AOS)
-### *Global Bilgi Ontolojisi ve Meta-Stratejik Sermaye Altyapısı* 🌐💎🚀
+### *Medrese-i Modern: Küresel Bilim ve Kadim Mirasın Sinerjisi* 🌐💎🌙🚀
 
 [![Kurucu](https://img.shields.io/badge/KURUCU-Bahattin%20Yunus-black?style=for-the-badge&logo=github&logoColor=gold)](https://github.com/bahattinyunus)
-[![Versiyon](https://img.shields.io/badge/VERSİYON-v2025.Master-B81D24?style=for-the-badge&logo=target)](./)
-[![Kapsam](https://img.shields.io/badge/KAPSAM-385_Bölüm-0078D4?style=for-the-badge&logo=rocket)](./SUMMARY.md)
-[![Mindset](https://img.shields.io/badge/MINDSET-Multidisciplinary-FFD700?style=for-the-badge&logo=openai&logoColor=black)](./)
+[![Versiyon](https://img.shields.io/badge/VERSİYON-v2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
+[![Kapsam](https://img.shields.io/badge/KAPSAM-385_Bölüm-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
+[![Düşünce](https://img.shields.io/badge/DÜŞÜNCE-İlim--Amel--İhlas-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
 
 ---
 
-## 📜 AOS Manifestosu: Bilgi ve Karakterin Sinerjisi
+## 📜 AOS Manifestosu: Hakikat Arayışı ve Teknik Üstünlük
 
-> **"Bilgi, ancak ehemmiyetli bir karakter ve berrak bir strateji ile birleştiğinde dünyayı değiştirir."**
+> **"İlim, Çin'de de olsa ona talip olun."**
 
-AOS, modern insanın parçalı ve kaotik bilgi yığınına karşı bir "Düşünsel Kale" (Intellectual Fortress) inşa etme girişimidir. Bu sistem; sadece mühendislik veya tıp değil, insanın kendisini ve dünyayı yönetmesi için gereken tüm disiplinleri birleştiren bir **Hayat Mimarisidir.**
+AOS, modern bilimsel tarafsızlık ile kadim medeniyet mirasımızın yüksek disiplinini birleştiren bir "Bilgi Kalesi"dir. Bu sistem; Selçuklu'nun geometrik hassasiyetini, Osmanlı'nın nizam idealini ve modern mühendisliğin otonom gücünü tek bir potada eritir. **Bilim bir keşif süreci, mühendislik ise bu keşfi insanlığın hizmetine sunma sanatıdır.**
 
 ---
 
 </div>
 
-## 🧠 Felsefi Temeller ve Rehber İlkeler
+## 🕌 Miras ve Vizyon: El-Cezeri'den Geleceğe
 
-AOS ekosistemi, tarihin derinliklerinden gelen bu kadim düsturların üzerine bina edilmiştir:
+AOS ekosistemi, hakikati arayan ve teknik mükemmelliği hedefleyen bir zihin yapısı üzerine inşa edilmiştir:
 
-| ✍️ Söz | 👤 Kaynak | 🏛️ AOS Prensibi |
+| ✍️ Düstur | 👤 Kaynak | 🏛️ AOS Prensibi |
 | :--- | :--- | :--- |
-| **"Her şeyi öğrenin, sonra kendi yolunuzu çizin."** | *Leonardo da Vinci* | **Mültidisipliner Bütünlük** |
-| **"Stratejisi olmayan taktik, yenilgiden önceki gürültüdür."** | *Sun Tzu* | **Yüksek Kaldıraçlı Planlama** |
-| **"Engelin kendisi yoldur."** | *Marcus Aurelius* | **Stoacı Dayanıklılık** |
-| **"Geleceği tahmin etmenin en iyi yolu, onu icat etmektir."** | *Alan Kay / Tesla* | **Aktif Mühendislik Vizyonu** |
-| **"Okumayan için hiçbir kitap yazılmamıştır, dinlemeyen için hiçbir söz söylenmemiştir."** | *Aliya İzzetbegoviç* | **Sürekli Arayış ve İlim** |
+| **"Eyleme dökülmeyen ilim, yerinde sayan bir gölge gibidir."** | *El-Cezeri (Sibernetiğin Babası)* | **Aktif Mühendislik & Üretim** |
+| **"Hiç bilenlerle bilmeyenler bir olur mu?"** | *Zümer Suresi, 9* | **Entelektüel Üstünlük** |
+| **"Amacı olmayan ilim, ruhsuz bir bedendir."** | *İbn Sina (Avicenna)* | **Hikmet Odaklı Tasarım** |
+| **"Stratejisi olmayan güç, kendi kendini yok eder."** | *Fatih Sultan Mehmet* | **Stratejik Seferberlik** |
+| **"Gökleri ve yeri araştırın; o büyük nizamı keşfedin."** | *Kadim İlim Geleneği* | **Evrensel Merak & Bilim** |
 
 ---
 
 <div align="center">
 
 ## ⚙️ Çelik Çerçeve: Ultimate 7-Tier Mimari
-*"Sistem, kaosun en büyük düşmanıdır."*
+*"Nizam, kaosun en büyük galibidir."*
 
-Sistemdeki her bir branş, rastgele notlar yerine **7 katmanlı elit bir hiyerarşi** üzerine inşa edilmiştir. Bu yapı, bir konuyu "sıfırdan" ele alıp "endüstriyel uzmanlığa" taşıyan tek standarttır:
+Her branş, rastgele bir yığın değil; **7 katmanlı profesyonel bir nizam (Systemum)** üzerine kuruludur:
 
 **`00`** Hazırlık **`01`** Teori **`02`** Çekirdek **`03`** Uzmanlık **`04`** Üretim **`05`** Akademi **`06`** Standart
 
@@ -123,15 +123,15 @@ Sistemdeki her bir branş, rastgele notlar yerine **7 katmanlı elit bir hiyerar
 </div>
 
 ## 💎 Neden Bu Sistem?
--   **Mültidisipliner Bağlantılar:** 3D Print AI'dan Stoacılığa, Kuantum Mühendisliğinden Çay Bilimine kadar birbirine bağlı 385 alan.
--   **Stratejik Odak (Silk Road Edition):** Çin'in küresel liderliğini hedeflediği çipler, düşük irtifa teknolojileri ve geleneksel tıp branşlarının tam entegrasyonu.
--   **Meta-Yetkinlikler:** Sadece teknik bilgi değil; "Monk Mode", "Zaman Yönetimi" ve "Hızlı Öğrenme" gibi bireyi sistemin üzerinde tutan meta-beceriler.
+-   **Evrensel Kapsayıcılık:** Kuantum fiziğinden İslam Hukukuna, BCI mühendisliğinden Osmanlı mimarisine kadar 385 alan.
+-   **Stratejik Entegrasyon:** Çin'in teknoloji vizyonu ve YÖK standartlarının, yerli ve milli bir stratejiyle harmanlanması.
+-   **Karakter İnşası:** Teknik bilgiyle beraber Stoacı dayanıklılık ve İslam ahlakının (Meta-Yetkinlikler) birleşimi.
 
 ---
 
 ## 📚 Ansiklopedik Bölüm Dizini (385 Alan)
 
-Aşağıdaki kategoriler, AOS ekosisteminin 385 benzersiz hücresini temsil eder.
+AOS ekosistemi, bilginin bir "Hazine" (Kenz) olarak korunduğu 385 benzersiz odadan oluşur.
 
 """
 
@@ -166,7 +166,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 385 benzersiz hücresini temsil eder
 ---
 
 ## 🛠️ Profesyonel Enstrümantasyon (V.2025)
-> "Harika bir zanaatkar, aletlerini en iyi tanıyan kişidir."
+> "Kılıç, elin uzantısı; kalem ise aklın dilidir."
 
 - **Core Intelligence:** Gemini 2.0 / Claude 3.5 Sonnet / GPT-o1
 - **Development & IDE:** Cursor / Windsurf
@@ -175,11 +175,8 @@ Aşağıdaki kategoriler, AOS ekosisteminin 385 benzersiz hücresini temsil eder
 
 ---
 
-## 🤝 Katkıda Bulunma ve Gelişim
-Bu sistem, bilginin demokratikleşmesi değil, **bilginin sistematikleşmesi** için kurulmuştur. Pull Request'ler sadece sistemin 7-tier yapısına uygun olduğunda kabul edilir.
-
 ## ⚖️ Lisans
-Bu proje **MIT Lisansı** ile korunmaktadır. Tüm hakları ve vizyonu kurucusuna aittir.
+Bu proje **MIT Lisansı** ile korunmaktadır.
 
 <div align="center">
 
@@ -189,7 +186,8 @@ Bu proje **MIT Lisansı** ile korunmaktadır. Tüm hakları ve vizyonu kurucusun
 [Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
 
 ---
-*"İlim, müminin yitik malıdır; nerede bulursa alsın."*
+*"İlim, müminin yitik malıdır; nerede bulursa alsın."*  
+**Hayırlı İlimler Dileğiyle.**
 </div>
 """
 
@@ -198,7 +196,7 @@ Bu proje **MIT Lisansı** ile korunmaktadır. Tüm hakları ve vizyonu kurucusun
     with open(os.path.join(ROOT_DIR, 'README.md'), 'w', encoding='utf-8') as f:
         f.write(full_content)
         
-    print(f"README.md updated with 385 areas and Philosophical depth. Total: {total_count}")
+    print(f"README.md updated with 385 areas and Islamic/Heritage depth. Total: {total_count}")
 
 if __name__ == "__main__":
     generate_encyclopedic_readme()
