@@ -1,6 +1,7 @@
 import os
 
-ROOT_DIR = r"g:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\github repolarım\engineering-courses"
+# Portable Root Path
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 CONTAINERS = {
     'meta_muhendislik': '🛠️ Mühendislik Bilimleri',

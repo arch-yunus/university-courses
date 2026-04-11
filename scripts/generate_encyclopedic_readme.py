@@ -1,6 +1,7 @@
 import os
 
-ROOT_DIR = r"g:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\github repolarım\engineering-courses"
+# Portable Root Path (Automatically identifies the repository root regardless of folder name)
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Container mappings for display
 CONTAINERS = {
@@ -120,20 +121,28 @@ def generate_encyclopedic_readme():
 
 ![UAOS Banner](assets/uaos_hero_banner.png)
 
-# 🌌 EVRENSEL AKADEMİK İŞLETİM SİSTEMİ (UAOS)
-### *Yüksek Yoğunluklu Bilgi Matrisi ve Otonom Zeka Mimarisi* 🌐🧬🏗️
+# 🌌 UNIVERSITY COURSES (UC)
+### *Solopreneur Intelligence System & Otonom Zeka Mimarisi* 🌐🧬🏗️
 
-[![Versiyon](https://img.shields.io/badge/ÇEKİRDEK-v3.0--ETERNAL-00A9E0?style=for-the-badge&logo=target)](./)
+[![Versiyon](https://img.shields.io/badge/ÇEKİRDEK-v3.5--ETERNAL-00A9E0?style=for-the-badge&logo=target)](./)
 [![Zeka](https://img.shields.io/badge/MİMAR-Antigravity_x_KULLANICI-D4AF37?style=for-the-badge&logo=openai&logoColor=white)](./)
-[![Standart](https://img.shields.io/badge/PROTOKOL-7--Kademeli_Elit-black?style=for-the-badge&logo=gitbook)](./)
-[![Depo](https://img.shields.io/badge/DÜĞÜMLER-372_Disiplin-18453B?style=for-the-badge&logo=rocket)](./SUMMARY.md)
+[![Repo](https://img.shields.io/badge/REPO-university--courses-black?style=for-the-badge&logo=github)](https://github.com/bahattinyunus/university-courses)
+[![Kapsam](https://img.shields.io/badge/KAPSAM-372_Disiplin-18453B?style=for-the-badge&logo=rocket)](./SUMMARY.md)
 
 ---
 
-## 🦾 ANTIGRAVITY MANİFESTOSU: OTONOM HAKİMİYET
-**UAOS**, pasif bir arşiv değil; **Aktif bir Zeka Ekosistemi**dir. Hiper-doygun veri ve yapay zeka tabanlı sentez çağında, bilginin değeri onun **Mimarisinde** yatar.
+## 🦾 ANTIGRAVITY MANİFESTOSU: BİREYSEL EGEMENLİK (SOLOPRENEUR DNA)
+**UC**, sadece bir akademik arşiv değil; **Yüksek Kaldıraçlı Bireyin (Solopreneur) Zeka Ekosistemi**dir. Bilginin demokratikleştiği ama derinliğin azaldığı bir çağda, asıl güç bilginin kendisinde değil, onun **Bireysel Üretime Dönüştürülme Mimarisinde** yatar.
 
-KULLANICI ve **Antigravity** iş birliğiyle geliştirilen bu depo, özel ve yüksek sadakatli bir bilişsel temel görevi görür. Parçalanmış eğitimin "muhafazakar" sınırlarını aşarak; teknik hassasiyetin, insani derinliğin ve stratejik öngörünün tek bir otonom zihinde birleştiği birleşik bir epistemik matris inşa ediyoruz.
+KULLANICI ve **Antigravity** iş birliğiyle, parçalanmış eğitimi "muhafazakar" kurumların elinden alıp; ampirik titizliği, girişimci radikalizm ile birleştiriyoruz. Burası, bilgiyi sadece tüketen değil, onu bir **Sermaye** (Epistemic Capital) olarak kullanan otonom mimarların karargahıdır.
+
+---
+
+## 🧠 SOLEPRENEURIAL EDGE: BİLGİYİ SERMAYEYE DÖNÜŞTÜRMEK
+UC, bilgiyi bir **Silah** olarak kurgular. Mühendisliğin "Nasıl"ı ile Sosyal Bilimlerin "Neden"ini sentezliyoruz:
+- **Bilgi-Sermaye Dengesi:** Akademik derinliği, girişimci hızla birleştirerek rakiplerin ulaşamayacağı bir teknik bariyer oluşturun.
+- **Bimodal Hakimiyet:** Hem teknik (kod/fizik) hem de idari/beşeri (hukuk/ikna) alanlarda aynı anda uzmanlaşarak "Tek Kişilik Ordu" kapasitesine ulaşın.
+- **Yapay Zeka Kaldıracı:** Antigravity ve diğer ajan sistemlerini kullanarak, akademik veriyi pazar aksiyonuna dönüştürün.
 
 ---
 
@@ -143,13 +152,13 @@ UAOS, her bir bilgi modülünün temel teoriden endüstriyel düzeyde üretime k
 > [!TIP]
 > **Evrimsel Yol:** Veri -> Enformasyon -> Bilgi -> Otonom Bilgelik. Bu yapıyı pasif öğrenmeden (00-02) aktif üretime (04-06) geçmek için kullanın.
 
-1. **`00 — Hazırlık & Oryantasyon`**: Sözlüksel hakimiyet, metodolojik kurulum ve çevresel konfigürasyon.
-2. **`01 — Teorik Temeller`**: Aksiyomatik prensipler, matematiksel modelleme ve disiplinin temel fiziği.
-3. **`02 — Çekirdek Uygulama`**: Zorunlu alan uzmanlığı ve fonksiyonel uygulama çerçeveleri.
-4. **`03 — Derin Uzmanlık`**: Özelleşmiş niş araştırmalar ve yüksek sadakatli teknik dökümantasyon.
-5. **`04 — AR-GE & İleri Üretim`**: Bitirme projeleri, özgün sentezler ve otonom entelektüel çıktılar.
-6. **`05 — Akademik Entegrasyon`**: Lisansüstü araştırma uyumu ve bilimsel iletişim standartları.
-7. **`06 — Endüstri & Kariyer Bağlantısı`**: Küresel standart uyumluluğu (ISO, IEEE, MISRA), sertifikasyonlar ve profesyonel dağıtım.
+1. **`00 — Hazırlık & Oryantasyon`**: Metodolojik kurulum ve yüksek verimli çalışma ortamı konfigürasyonu.
+2. **`01 — Teorik Temeller`**: İşin fiziği; aksiyomatik prensipler ve ilkeler üzerinden derin anlama.
+3. **`02 — Çekirdek Uygulama`**: Alan uzmanlığı; teorinin pratik karşılığını "çıraklık" seviyesinde uygulama.
+4. **`03 — Derin Uzmanlık (Niche Mastery)`**: Pazardaki boşlukları tespit edecek mikro-uzmanlık dökümantasyonu.
+5. **`04 — AR-GE & Otonom Sentez`**: Özgün ürün geliştirme ve akademik bilginin "Proof-of-Value" evresi.
+6. **`05 — Stratejik Entegrasyon`**: Çıktıların küresel standartlarla (ISO, IEEE) ve bilimsel metodolojiyle uyumu.
+7. **`06 — Bağımsız Üretim & Hakimiyet`**: Bilginin "Ürün-Pazar" uyumu; finansal egemenlik ve otonom iş yönetimi.
 
 ---
 
@@ -205,8 +214,8 @@ The following sectors represent the complete topological map of the UAOS intelli
             continue
             
         section = f"<details>\n<summary><b>{title} ({len(depts)} Alan)</b></summary>\n<br>\n\n"
-        section += "| Branş / Alan | Akademik Misyon & Stratejik Odak |\n"
-        section += "| :--- | :--- |\n"
+        section += "| Branş / Alan |\n"
+        section += "| :--- |\n"
         
         for d in depts:
             dept_name = d.replace('_', ' ').title()
@@ -214,7 +223,7 @@ The following sectors represent the complete topological map of the UAOS intelli
             dept_name = dept_name.replace('Muhendisligi', 'Mühendisliği').replace('Bilisim', 'Bilişim').replace('Insaat', 'İnşaat').replace('Ulasim', 'Ulaşım').replace('Isletme', 'İşletme')
             link = f"[{dept_name}]({folder}/{d}/)"
             desc = get_desc(d, folder)
-            section += f"| {link} | {desc} |\n"
+            section += f"| {link} |\n"
             total_count += 1
             
         section += "\n"
