@@ -1,35 +1,54 @@
 <div align="center">
 
-![University Courses Banner](assets/university_courses_banner_v2.png)
+![University Courses Banner](assets/university_courses_banner_v3.png)
 
 # 📚 UNIVERSITY COURSES
-### *Solopreneurlar İçin Yüksek Yoğunluklu Bilgi Deposu* 🌐🧬🏗️
+### *Solopreneurlar ve Bağımsız Araştırmacılar İçin Yüksek Yoğunluklu Bilgi Deposu* 🌐🧬🏗️
 
 [![Status](https://img.shields.io/badge/DURUM-Aktif_Arşiv-00A9E0?style=for-the-badge)](./)
 [![Repo](https://img.shields.io/badge/REPO-university--courses-black?style=for-the-badge&logo=github)](https://github.com/bahattinyunus/university-courses)
 [![Kapsam](https://img.shields.io/badge/KAPSAM-372_Disiplin-18453B?style=for-the-badge&logo=rocket)](./SUMMARY.md)
+[![Lisans](https://img.shields.io/badge/LİSANS-MIT-red?style=for-the-badge)](./LICENSE)
+[![Katkı](https://img.shields.io/badge/KATKIDA_BULUN-Açık-green?style=for-the-badge)](./CONTRIBUTING.md)
 
 ---
 
 ## 🦾 PROJE AMACI
-Bu depo, **Solopreneur**'lar ve bağımsız araştırmacılar için akademik bilginin rafine edildiği fütüristik bir **Bilgi Kütüphanesi**dir. Karmaşık teorileri pratik uygulamalarla birleştirerek, bireysel gelişimi ve teknik hakimiyeti desteklemeyi amaçlar.
+Bu depo, **Solopreneur**'lar, otodidaktlar ve bağımsız araştırmacılar için akademik bilginin rafine edildiği fütüristik bir **Bilgi Kütüphanesi**dir. Karmaşık teorileri pratik uygulamalarla birleştirerek, bireysel gelişimi, teknik hakimiyeti ve multidisipliner inovasyonu desteklemeyi amaçlar. Geleneksel eğitim kurumlarının hantal yapısından sıyrılarak, bilgiyi doğrudan, yapılandırılmış ve uygulanabilir bir formatta sunar.
 
 ---
 
 ## 🪐 EPİSTEMİK VİZYON & FELSEFE
 
-Bu kütüphane, bilginin sadece bir "tüketim nesnesi" değil, **Stratejik bir Egemenlik Aracı** olduğuna inanır. Organizasyon yapımız şu üç temel direk üzerine inşa edilmiştir:
+Bu kütüphane, bilginin sadece bir "tüketim nesnesi" değil, **Stratejik bir Egemenlik Aracı** olduğuna inanır. Bireyin kendi zihinsel altyapısını inşa edebilmesi için organizasyon yapımız şu dört temel direk üzerine inşa edilmiştir:
 
-*   **Bilişsel Egemenlik:** Bilgiyi şeffaflaştırarak, her bireyin kendi öğrenme yolculuğunun otonom mimarı olmasını sağlamak.
-*   **Topolojik Navigasyon:** Kaotik enformasyon denizinde, disiplinler arası bağlantıları kullanarak kaybolmadan ilerlemek.
-*   **Sentropik Birikim:** Karmaşıklığın (entropi) ötesinde, yapılandırılmış ve rafine edilmiş (sentropi) bir bilgi ekosistemi sunmak.
+*   **Bilişsel Egemenlik:** Bilgiyi şeffaflaştırarak ve erişilebilir kılarak, her bireyin kendi öğrenme yolculuğunun otonom mimarı olmasını sağlamak.
+*   **Topolojik Navigasyon:** Kaotik enformasyon denizinde, disiplinler arası (interdisipliner) bağlantıları kullanarak kaybolmadan, hedef odaklı ilerlemek.
+*   **Sentropik Birikim:** Karmaşıklığın (entropi) ötesinde, yapılandırılmış, rafine edilmiş ve anlamlandırılmış (sentropi) bir bilgi ekosistemi sunmak.
+*   **Aksiyon Odaklı Öğrenme:** Teorik bilgiyi, gerçek dünya problemlerini çözmek için bir araç (tool) olarak konumlandırmak.
 
 > [!TIP]
 > *“Sapere Aude! Bilgin olmaya cüret et; kendi aklını kullanma cesaretini göster!”* — **Immanuel Kant**
 
 ---
 
+## 🎯 NEDEN SOLOPRENEURLAR İÇİN?
+Geleceğin ekonomisi, birden fazla disiplini birleştirerek yenilikçi çözümler üretebilen tek kişilik dev kadrolar (solopreneurlar) üzerine inşa edilecektir. Bu kütüphane:
+- **Hız:** İhtiyacınız olan bilgiye doğrudan ulaşmanızı sağlar.
+- **Kapsam:** Mühendislikten sanata, tıptan felsefeye kadar geniş bir yelpazede disiplinler arası sentez yapmanıza olanak tanır.
+- **Derinlik:** Yüzeysel içerikler yerine, akademik ciddiyette ancak pratik odakta materyaller sunar.
+
+---
+
+## 🚀 NASIL KULLANILIR?
+1. **İlgi Alanınızı Seçin:** Aşağıdaki *Ana Bölümler* tablosundan veya *Universal Discipline Matrix* üzerinden spesifik bir alana tıklayın.
+2. **Derinleşin:** Her bir disiplin klasörünün içindeki detaylı alt dalları ve okuma materyallerini inceleyin.
+3. **Bağlantı Kurun:** Farklı disiplinler arasında köprüler kurarak inovatif fikirler geliştirin.
+4. **Katkıda Bulunun:** Kendi araştırmalarınızı veya öğrendiklerinizi havuza eklemek için [Katkıda Bulunma Rehberimizi](./CONTRIBUTING.md) okuyun.
+
 </div>
+
+<br>
 
 ### 📌 ANA BÖLÜMLER
 
@@ -334,8 +353,13 @@ UAOS ekosistemindeki tüm akademik disiplinlerin yüksek yoğunluklu topolojik h
 
 <div align="center">
 
+## 🤝 KATKIDA BULUNMA
+Bu kütüphane açık kaynaklı ve kolektif bir zekanın ürünü olarak büyümektedir. Yeni bir ders eklemek, var olan içeriği güncellemek veya hataları düzeltmek isterseniz, lütfen [CONTRIBUTING.md](./CONTRIBUTING.md) dosyasını inceleyin ve bir Pull Request (PR) oluşturun. Ayrıca topluluk standartlarımız için [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) dosyasını okuyabilirsiniz.
+
+---
+
 ## ⚖️ YASAL YÖNETİŞİM VE EPİSTEMİK HAKİMİYET
-Bu proje, yüksek sadakatli bilginin serbest değişimini ve bireysel zihin otonomisini savunarak **MIT Lisansı** altında lisanslanmıştır. Bilgi, tüm insanlığın ortak mirasıdır ve kısıtlanamaz.
+Bu proje, yüksek sadakatli bilginin serbest değişimini ve bireysel zihin otonomisini savunarak **MIT Lisansı** altında lisanslanmıştır. Bilgi, tüm insanlığın ortak mirasıdır ve kısıtlanamaz. Detaylar için [LICENSE](./LICENSE) dosyasına göz atabilirsiniz.
 
 **Mimari İş Birliği**  
 ### Yunus Çetin  
@@ -344,11 +368,12 @@ x
 ### Antigravity  
 *Otonom Sistemler Mimarı*
 
-[Linkedin](https://linkedin.com/in/bahattinyunus) | [GitHub](https://github.com/arch-yunus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bahattinyunus) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arch-yunus)
 
 ---
-*"Bilgi arayışı, merakla beslenen ve akılla terbiye edilen, sonu olmayan bir yolculuktur."*
+> *"Bilgi arayışı, merakla beslenen ve akılla terbiye edilen, sonu olmayan bir yolculuktur."*
 
 ---
-© 2025 Evrensel Akademik İşletim Sistemi (UAOS).
+© 2024-2026 Evrensel Akademik İşletim Sistemi (UAOS).
 </div>
