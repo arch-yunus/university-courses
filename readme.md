@@ -353,6 +353,44 @@ UAOS ekosistemindeki tüm akademik disiplinlerin yüksek yoğunluklu topolojik h
 
 <div align="center">
 
+## 🧠 SİSTEMATİK ÖĞRENME METODOLOJİSİ
+Bu kütüphanedeki verimi maksimize etmek için aşağıdaki **ileri düzey öğrenme konseptlerini** kendi öğrenme süreçlerinize entegre etmeniz önerilir:
+
+*   **Zettelkasten Metodu:** Farklı disiplinlerden öğrendiklerinizi (örn. kuantum fiziği ve felsefe) küçük not kartları halinde birbirine bağlayarak yeni, inovatif fikirler (emergent ideas) üretin.
+*   **Feynman Tekniği:** Uzmanlaşmak istediğiniz karmaşık bir teoriyi, sanki konuyu hiç bilmeyen birine anlatıyormuş gibi basitleştirin.
+*   **Spaced Repetition (Aralıklı Tekrar):** Öğrendiğiniz kavramların unutulma eğrisini kırmak için, stratejik aralıklarla geri dönüp tekrarlar yapın.
+*   **First Principles Thinking (İlk Prensiplerden Düşünme):** Karmaşık problemleri en temel, tartışmasız gerçeklerine indirgeyin ve çözümleri bu temel yapı taşları üzerinden yeniden inşa edin.
+
+---
+
+## 🗺️ PROJE YOL HARİTASI (ROADMAP)
+Bu platform, statik bir depodan ziyade, sürekli gelişen organik bir yapıdır. Kısa ve orta vadeli gelişim hedeflerimiz şunlardır:
+
+- [x] **Faz 1:** Temel mühendislik ve bilim disiplinlerinin iskeletinin oluşturulması.
+- [x] **Faz 2:** Universal Discipline Matrix'in (Tüm akademik alanlar) entegrasyonu.
+- [ ] **Faz 3:** AI tabanlı navigasyon ve akıllı asistan desteklerinin dökümantasyona eklenmesi.
+- [ ] **Faz 4:** Web3 ve Merkeziyetsiz Eğitim (DeEd) prensiplerinin entegrasyonu.
+- [ ] **Faz 5:** İngilizce dil desteği (Global adaptasyon).
+
+---
+
+## ❓ SIKÇA SORULAN SORULAR (SSS)
+
+**S: Neden her şey tek bir depoda toplanıyor?**
+**C:** Çünkü gerçek dünya problemleri laboratuvar ortamındaki gibi izole değildir. Bir makine mühendisinin psikoloji, bir tıp öğrencisinin kodlama bilmesi, onları standart profesyonellerin ötesine geçirerek "inovatif yaratıcılar" yapar. Bu depo, bu disiplinler arası geçişkenliği sağlamak içindir.
+
+**S: İçerikler tamamen ücretsiz mi?**
+**C:** Evet, bu havuz **MIT Lisansı** ile korunmaktadır. Bilginin herkes için serbest, açık ve erişilebilir olması gerektiğine inanıyoruz.
+
+**S: Bu devasa kütüphanede nasıl kaybolmam?**
+**C:** Yalnızca o an çözmekte olduğunuz probleme veya inşa ettiğiniz projeye odaklanın ("Just-in-Time Learning"). Baştan sona her şeyi okumaya çalışmak yerine, kütüphaneyi bir başvuru ve ilham kaynağı olarak araçsallaştırın.
+
+---
+
+</div>
+
+<div align="center">
+
 ## 🤝 KATKIDA BULUNMA
 Bu kütüphane açık kaynaklı ve kolektif bir zekanın ürünü olarak büyümektedir. Yeni bir ders eklemek, var olan içeriği güncellemek veya hataları düzeltmek isterseniz, lütfen [CONTRIBUTING.md](./CONTRIBUTING.md) dosyasını inceleyin ve bir Pull Request (PR) oluşturun. Ayrıca topluluk standartlarımız için [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) dosyasını okuyabilirsiniz.
 
