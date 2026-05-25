@@ -1,6 +1,6 @@
 <div align="center">
 
-![University Courses Banner](assets/university_courses_banner_v4.png)
+![University Courses Banner](assets/university_courses_banner_v5.png)
 
 # 📚 UNIVERSITY COURSES
 ### *Solopreneurlar ve Bağımsız Araştırmacılar İçin Yüksek Yoğunluklu Bilgi Deposu* 🌐🧬🏗️
