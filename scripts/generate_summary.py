@@ -4,6 +4,7 @@ import os
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 CONTAINERS = {
+    'epistemik': '👁️ Epistemik Vizyon & Felsefe',
     'meta_muhendislik': '🛠️ Mühendislik Bilimleri',
     'mimarlik_ve_tasarim': '🏛️ Mimarlık ve Tasarım',
     'guzel_sanatlar': '🖼️ Güzel Sanatlar',

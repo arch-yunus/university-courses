@@ -1,8 +1,16 @@
-# 🗂️ UNIVERSITY COURSES: Evrensel Akademik Müfredat ve Bilgi İndeksi
+# 🗂️ Evrensel Akademik Müfredat ve Bilgi İndeksi
 
 Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akademik standartlara ve küresel profesyonel gerekliliklere göre gruplandırılmıştır.
 
-**Toplam Kapsam:** 371 Akademik ve Profesyonel Alan (Global 7-Kademeli Elit Yapı)
+**Toplam Kapsam:** 374 Akademik ve Profesyonel Alan (Global 7-Kademeli Elit Yapı)
+
+## 👁️ Epistemik Vizyon & Felsefe
+
+| Bölüm / Alan | Yol |
+|--------------|-----|
+| Bilgi Ontolojisi | [bilgi_ontolojisi](epistemik/bilgi_ontolojisi/) |
+| Felsefi Sorgulama | [felsefi_sorgulama](epistemik/felsefi_sorgulama/) |
+| Zihin Mimarisi | [zihin_mimarisi](epistemik/zihin_mimarisi/) |
 
 ## 🛠️ Mühendislik Bilimleri
 

@@ -57,8 +57,10 @@ CONTAINERS = [
     'meta_yetkinlikler_ve_gelisim',
     'tarim_ve_ziraat_bilimleri',
     'askeri_bilimler_ve_savunma_teknolojileri',
-    'genel'
+    'genel',
+    'epistemik'
 ]
+
 
 def get_dept_readme_content(dept_name):
     title = dept_name.replace('_', ' ').title()
@@ -104,20 +106,43 @@ def get_subdir_readme_content(dept_name, sub_key):
 """
 
 def scaffold_department(dept_path, dept_name):
-    # 1. Ensure Department README (Overwrite if missing new tiers)
+    # 1. Ensure Department README (Overwrite or append if missing new tiers)
     readme_path = os.path.join(dept_path, 'README.md')
     needs_rewrite = False
     if os.path.exists(readme_path):
         with open(readme_path, 'r', encoding='utf-8') as f:
             content = f.read()
-            if "05 — Lisansüstü" not in content:
+            if "05 — Lisansüstü" not in content and "05_Lisansustu_ve_Akademik_Kariyer" not in content:
                 needs_rewrite = True
     else:
+        content = ""
         needs_rewrite = True
         
     if needs_rewrite:
-        with open(readme_path, 'w', encoding='utf-8') as f:
-            f.write(get_dept_readme_content(dept_name))
+        if len(content.strip()) > 50:
+            tree_content = f"""
+---
+
+## 📂 Çekirdek Ders Ağacı
+Akademik ve profesyonel sistem entegrasyonu kapsamında bu bölüm için önerilen ve standartlaştırılmış klasör yapısı:
+
+- [00 — Akademik Hazırlık ve Dil](00_Akademik_Hazirlik_ve_Dil/)
+- [01 — Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
+- [02 — Alan Dersleri ve Pratik](02_Alan_Dersleri/)
+- [03 — Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
+- [04 — Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
+- [05 — Lisansüstü ve Akademik Kariyer](05_Lisansustu_ve_Akademik_Kariyer/)
+- [06 — Sertifikasyon ve Endüstriyel Standartlar](06_Sertifikasyon_ve_Endustriyel_Standartlar/)
+
+> [!TIP]
+> Yeni bir ders veya çalışma eklerken ana dizindeki `DERS_SABLONU.md` dosyasını kopyalayarak ilgili alt klasörün içine koyabilir ve kolayca kendi dökümantasyonunuzu oluşturabilirsiniz!
+"""
+            with open(readme_path, 'w', encoding='utf-8') as f:
+                f.write(content.rstrip() + "\n\n" + tree_content.lstrip())
+        else:
+            with open(readme_path, 'w', encoding='utf-8') as f:
+                f.write(get_dept_readme_content(dept_name))
+
     
     # 2. Copy DERS_SABLONU.md if available
     if os.path.exists(TEMPLATE_FILE):

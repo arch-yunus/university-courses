@@ -5,6 +5,7 @@ ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Container mappings for display
 CONTAINERS = {
+    'epistemik': '👁️ Epistemik Vizyon & Felsefe',
     'meta_muhendislik': '🛠️ Mühendislik & İleri Teknoloji',
     'mimarlik_ve_tasarim': '🏛️ Mimarlık, Tasarım & Şehircilik',
     'guzel_sanatlar': '🖼️ Güzel Sanatlar & Estetik',
