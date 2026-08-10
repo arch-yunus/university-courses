@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 ![University Courses Banner](assets/university_courses_banner_v9.png)
@@ -6,7 +8,7 @@
 ### *Solopreneurlar ve Bağımsız Araştırmacılar İçin Yüksek Yoğunluklu Bilgi Deposu* 🌐🧬🏗️
 
 [![Status](https://img.shields.io/badge/DURUM-Aktif_Arşiv-00A9E0?style=for-the-badge)](./)
-[![Repo](https://img.shields.io/badge/REPO-university--courses-black?style=for-the-badge&logo=github)](https://github.com/bahattinyunus/university-courses)
+[![Repo](https://img.shields.io/badge/REPO-university--courses-black?style=for-the-badge&logo=github)](https://github.com/arch-yunus/university-courses)
 [![Kapsam](https://img.shields.io/badge/KAPSAM-372_Disiplin-18453B?style=for-the-badge&logo=rocket)](./SUMMARY.md)
 [![Lisans](https://img.shields.io/badge/LİSANS-MIT-red?style=for-the-badge)](./LICENSE)
 [![Katkı](https://img.shields.io/badge/KATKIDA_BULUN-Açık-green?style=for-the-badge)](./CONTRIBUTING.md)
@@ -296,7 +298,7 @@ UAOS ekosistemindeki tüm akademik disiplinlerin yüksek yoğunluklu topolojik h
 |   |   |   |
 | :--- | :--- | :--- |
 | [3D Print Ai](./ozel_arastirma_alanlari/3d_print_ai/) | [Agro Tek Ve Topraksiz Tarim](./ozel_arastirma_alanlari/agro_tek_ve_topraksiz_tarim/) | [Akustik Muhendisligi](./ozel_arastirma_alanlari/akustik_muhendisligi/) |
-| [Algorithmic Governance](./ozel_arastirma_alanlari/algorithmic_governance/) | [Artirilmis Gerceklik Muhendisligi](./ozel_arastirma_alanlari/artirilmis_gerceklik_muhendisligi/) | [Bci](./ozel_arastirma_alanlari/bci/) |
+| [Algorithmic Governance](./ozel_arastirma_alanlari/algorithmic_governance/) | [Artirilmus Gerceklik Muhendisligi](./ozel_arastirma_alanlari/artirilmus_gerceklik_muhendisligi/) | [Bci](./ozel_arastirma_alanlari/bci/) |
 | [Bio Hacking Ve Longevity](./ozel_arastirma_alanlari/bio_hacking_ve_longevity/) | [Biyoinformatik](./ozel_arastirma_alanlari/biyoinformatik/) | [Biyoteknik Nanotip](./ozel_arastirma_alanlari/biyoteknik_nanotip/) |
 | [Blokzincir Ve Web3](./ozel_arastirma_alanlari/blokzincir_ve_web3/) | [Climate Tech Ve Karbon Yakalama](./ozel_arastirma_alanlari/climate_tech_ve_karbon_yakalama/) | [Contex Engineering](./ozel_arastirma_alanlari/contex_engineering/) |
 | [Cyber Physical Systems](./ozel_arastirma_alanlari/cyber_physical_systems/) | [Fintek Ai](./ozel_arastirma_alanlari/fintek_ai/) | [Guvenlik Bilimleri Ve Strateji](./ozel_arastirma_alanlari/guvenlik_bilimleri_ve_strateji/) |
