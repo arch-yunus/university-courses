@@ -1,10 +1,14 @@
 # 🗂️ Evrensel Akademik Müfredat ve Bilgi İndeksi
 
+> *“Öğrenmek akıntıya karşı kürek çekmek gibidir; durursanız gerilersiniz.”* — **Çin Atasözü**
+
 Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akademik standartlara ve küresel profesyonel gerekliliklere göre gruplandırılmıştır.
 
 **Toplam Kapsam:** 374 Akademik ve Profesyonel Alan (2618 Standartlaştırılmış Kademe / 7-Kademeli Elit Yapı)
 
 ## 👁️ Epistemik Vizyon & Felsefe (3 Alan)
+
+> *“Bilgi bir ışıktır; onu arayan zihin karanlıkta kalmaz. Hakikatin peşinde olmak en yüce ibadettir.”* — **El-Bîrûnî**
 
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
@@ -13,6 +17,8 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 | **Zihin Mimarisi** | [zihin_mimarisi](epistemik/zihin_mimarisi/) | `00-06 (7 Kademe)` |
 
 ## 🛠️ Mühendislik & İleri Teknoloji (64 Alan)
+
+> *“Bilim insanları var olan dünyayı inceler; mühendisler ise daha önce hiç var olmamış dünyaları yaratır.”* — **Theodore von Kármán**
 
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
@@ -83,6 +89,8 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 
 ## 🏛️ Mimarlık, Tasarım & Şehircilik (15 Alan)
 
+> *“Mimarlık, taşın ve ışığın sessiz şiiridir; mekân ise insan ruhunun biçim bulmuş halidir.”* — **Mimar Sinan**
+
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
 | **Cizgi Film Ve Animasyon** | [cizgi_film_ve_animasyon](mimarlik_ve_tasarim/cizgi_film_ve_animasyon/) | `00-06 (7 Kademe)` |
@@ -103,6 +111,8 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 
 ## 🖼️ Güzel Sanatlar & Estetik (8 Alan)
 
+> *“Sanat, doğanın gizemlerini keşfetme ve görünmeyeni görünür kılma çabasıdır.”* — **Leonardo da Vinci**
+
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
 | **Dijital Tiyatro** | [dijital_tiyatro](guzel_sanatlar/dijital_tiyatro/) | `00-06 (7 Kademe)` |
@@ -115,6 +125,8 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 | **Resim** | [resim](guzel_sanatlar/resim/) | `00-06 (7 Kademe)` |
 
 ## 🩺 Sağlık Bilimleri & Tıp (30 Alan)
+
+> *“Şifanın esası bedenin ve ruhun ahengini kavramaktır; tıp, insanın doğayla uyum sanatıdır.”* — **İbn-i Sînâ (Avicenna)**
 
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
@@ -151,6 +163,8 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 
 ## 🎓 Eğitim Fakültesi & Pedagoji (16 Alan)
 
+> *“Bana bir harf öğretenin kırk yıl kölesi olurum; zira akılları inşa edenler medeniyetin hakiki mimarlarıdır.”* — **Hz. Ali**
+
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
 | **Beden Eğitimi Ve Spor Öğretmenliği** | [beden_egitimi_ve_spor_ogretmenligi](ogretmenlik/beden_egitimi_ve_spor_ogretmenligi/) | `00-06 (7 Kademe)` |
@@ -172,6 +186,8 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 
 ## 🏅 Spor Bilimleri & Performans (8 Alan)
 
+> *“Bedenin terbiyesi zihnin keskinliğidir; disiplin, arzu ile başarı arasındaki köprüdür.”* — **Platon**
+
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
 | **Antrenorluk Eğitimi** | [antrenorluk_egitimi](spor_bilimleri/antrenorluk_egitimi/) | `00-06 (7 Kademe)` |
@@ -184,6 +200,8 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 | **Spor Yoneticiligi** | [spor_yoneticiligi](spor_bilimleri/spor_yoneticiligi/) | `00-06 (7 Kademe)` |
 
 ## ⚖️ Sosyal, Beşeri & İdari Bilimler (39 Alan)
+
+> *“Coğrafya kaderdir; lakin toplumların yükselişi ve çöküşü adalet, asabiyet ve üretim dengesine bağlıdır.”* — **İbn-i Haldun**
 
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
@@ -229,6 +247,8 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 
 ## 🧪 Temel Fen Bilimleri (12 Alan)
 
+> *“Evrenin kitabı matematik dilinde yazılmıştır; onun harfleri üçgenler, daireler ve geometrik formlardır.”* — **Galileo Galilei**
+
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
 | **Astronomi Ve Uzay Bilimleri** | [astronomi_ve_uzay_bilimleri](temel_bilimler/astronomi_ve_uzay_bilimleri/) | `00-06 (7 Kademe)` |
@@ -245,6 +265,8 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 | **Yer Bilimleri** | [yer_bilimleri](temel_bilimler/yer_bilimleri/) | `00-06 (7 Kademe)` |
 
 ## 📚 Filoloji, Dil & Edebiyat (17 Alan)
+
+> *“Dilimin sınırları, dünyamın sınırlarıdır; kelimeler düşüncenin yaşayan heykelleridir.”* — **Ludwig Wittgenstein**
 
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
@@ -268,6 +290,8 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 
 ## 📡 İletişim & Medya Bilimleri (4 Alan)
 
+> *“Ortam, mesajın ta kendisidir; insan iletişim kurduğu ve anlam ürettiği ölçüde var olur.”* — **Marshall McLuhan**
+
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
 | **Gazetecilik** | [gazetecilik](iletisim/gazetecilik/) | `00-06 (7 Kademe)` |
@@ -276,6 +300,8 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 | **Yeni Medya Ve İletişim** | [yeni_medya_ve_iletisim](iletisim/yeni_medya_ve_iletisim/) | `00-06 (7 Kademe)` |
 
 ## 🏨 Turizm, Otelcilik & Gastronomi (7 Alan)
+
+> *“Dünyayı gezmek zihindeki sınırları kaldırır; lezzet ve misafirperverlik ise insanlığın ortak lisanıdır.”* — **Evliya Çelebi**
 
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
@@ -289,6 +315,8 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 
 ## 🌱 Tarım, Ziraat & Doğa Bilimleri (8 Alan)
 
+> *“Toprak berekettir; tohumu sabır, emek ve ilimle işleyen milletin hakiki efendisidir.”* — **Mustafa Kemal Atatürk**
+
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
 | **Bahce Bitkileri** | [bahce_bitkileri](tarim_ve_ziraat_bilimleri/bahce_bitkileri/) | `00-06 (7 Kademe)` |
@@ -300,7 +328,9 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 | **Tutun Bilimi** | [tutun_bilimi](tarim_ve_ziraat_bilimleri/tutun_bilimi/) | `00-06 (7 Kademe)` |
 | **Zootekni** | [zootekni](tarim_ve_ziraat_bilimleri/zootekni/) | `00-06 (7 Kademe)` |
 
-## ⚔️ Savunma Sanayii & Güvenlik Stratejileri (6 Alan)
+## ⚔️ Askeri Bilimler ve Savunma (6 Alan)
+
+> *“En büyük zafer, savaşmadan kazanılan zaferdir; strateji kuvvetten, akıl silahtan üstündür.”* — **Sun Tzu**
 
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
@@ -313,18 +343,24 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 
 ## ⚖️ Adalet & Hukuk Bilimleri (2 Alan)
 
+> *“Adalet mülkün temelidir; hukukun bittiği yerde tiranlık, karmaşa ve haksızlık başlar.”* — **John Locke**
+
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
 | **Deniz Hukuku Ve Stratejisi** | [deniz_hukuku_ve_stratejisi](hukuk_bilimi/deniz_hukuku_ve_stratejisi/) | `00-06 (7 Kademe)` |
 | **Hukuk** | [hukuk](hukuk_bilimi/hukuk/) | `00-06 (7 Kademe)` |
 
-## 📚 Theology, Comparative Religion & Philosophy (1 Alan)
+## 📚 İlahiyat, Karşılaştırmalı Din & Felsefe (1 Alan)
+
+> *“İlim ilim bilmektir, ilim kendin bilmektir; sen kendini bilmezsin, ya nice okumaktır.”* — **Yunus Emre**
 
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
 | **Ilahiyat** | [ilahiyat](ilahiyat_ve_din/ilahiyat/) | `00-06 (7 Kademe)` |
 
-## 📋 Mesleki Yüksekokul (Ön Lisans) (72 Alan)
+## 📋 Mesleki Yüksekokul (Ön Lisans Programları) (72 Alan)
+
+> *“Uygulamaya dökülmeyen bilgi bir yüktür; maharet ve teknik ustalık teorinin can damarıdır.”* — **El-Cezerî**
 
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
@@ -401,7 +437,9 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 | **Yat İşletme Ve Yonetimi** | [yat_isletme_ve_yonetimi](on_lisans_programlari/yat_isletme_ve_yonetimi/) | `00-06 (7 Kademe)` |
 | **Yerel Yonetimler** | [yerel_yonetimler](on_lisans_programlari/yerel_yonetimler/) | `00-06 (7 Kademe)` |
 
-## 🔬 Disiplinlerarası & Özel Araştırma (39 Alan)
+## 🔬 Özel Araştırma & Disiplinlerarası Alanlar (39 Alan)
+
+> *“Geleceği tahmin etmenin en emin yolu, onu bizzat inşa etmektir.”* — **Alan Kay**
 
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
@@ -445,7 +483,9 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 | **Uzay Madenciligi Ve Lojistigi** | [uzay_madenciligi_ve_lojistigi](ozel_arastirma_alanlari/uzay_madenciligi_ve_lojistigi/) | `00-06 (7 Kademe)` |
 | **Yurtdisi Cikarlarin Guvenligi Ve Korunmasi** | [yurtdisi_cikarlarin_guvenligi_ve_korunmasi](ozel_arastirma_alanlari/yurtdisi_cikarlarin_guvenligi_ve_korunmasi/) | `00-06 (7 Kademe)` |
 
-## 🚀 Kariyer, Portfolyo & Sertifika (12 Alan)
+## 🚀 Kariyer, Portfolyo & Sertifikasyonlar (12 Alan)
+
+> *“Şans, yalnızca hazırlıklı ve yetkin zihinlere güler; profesyonel ustalık kesintisiz inşa edilir.”* — **Louis Pasteur**
 
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
@@ -462,7 +502,9 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 | **Six Sigma Green Black Belt** | [six_sigma_green_black_belt](kariyer_ve_sertifikasyonlar/six_sigma_green_black_belt/) | `00-06 (7 Kademe)` |
 | **Toefl Ielts Ingilizce** | [toefl_ielts_ingilizce](kariyer_ve_sertifikasyonlar/toefl_ielts_ingilizce/) | `00-06 (7 Kademe)` |
 
-## 🧠 Meta-Zihin & Kişisel Disiplin (8 Alan)
+## 🧠 Meta-Yetkinlikler ve Gelişim (8 Alan)
+
+> *“Düşünceleriniz ne ise hayatınız da odur; kendi zihnini yöneten, tüm dünyaya yön verir.”* — **Marcus Aurelius**
 
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |
@@ -475,7 +517,9 @@ Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akadem
 | **Sun Tzu Stratejik Dusunce** | [sun_tzu_stratejik_dusunce](meta_yetkinlikler_ve_gelisim/sun_tzu_stratejik_dusunce/) | `00-06 (7 Kademe)` |
 | **Zaman Yonetimi Ve U U** | [zaman_yonetimi_ve_u_u](meta_yetkinlikler_ve_gelisim/zaman_yonetimi_ve_u_u/) | `00-06 (7 Kademe)` |
 
-## 📂 Genel Arşiv & Ortak Alanlar (3 Alan)
+## 📂 Genel ve Ortak Alanlar (3 Alan)
+
+> *“Bütün büyük işler, küçük ve disiplinli adımların kararlılıkla bir araya gelmesiyle gerçekleşir.”* — **Vincent van Gogh**
 
 | Bölüm / Alan | Konum | Standart Kademeler |
 | :--- | :--- | :---: |

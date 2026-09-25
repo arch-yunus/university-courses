@@ -1,40 +1,54 @@
 # 🤝 University Courses Katkı Rehberi
 
-Bu proje, akademik bilgi birikimini organize etmeyi ve herkesin erişimine sunmayı amaçlayan `University Courses` reposudur. Katkılarınızla değer kazanır! 🌟
+> *“Eğer daha uzağı görebildiysem, bu benden önceki devlerin omuzlarında durduğum içindir.”* — **Sir Isaac Newton**
 
-## 📋 Genel Kurallar
+Bu proje, akademik bilgi birikimini organize etmeyi, evrensel standartlara kavuşturmayı ve herkesin özgürce erişimine sunmayı amaçlayan **Evrensel Akademik İşletim Sistemi (UAOS)** deposudur. Katkılarınızla değer kazanır ve büyür! 🌟
+
+---
+
+## 📋 Temel İlkeler ve Standartlar
+
+> *“İlim servetten daha hayırlıdır; zira serveti sen korursun, ilim ise seni korur.”* — **Hz. Ali**
 
 ### 1. Dosya ve Klasör İsimlendirme
-Proje genelinde **standartlaşma** kritiktir.
+Proje genelinde **rijit standartlaşma** esastır:
 - **Klasörler:** Sadece küçük harf ve alt çizgi (`_`) kullanılmalıdır.
-  - ✅ `mekatronik_muhendisligi`, `yapay_zeka`
-  - ❌ `Mekatronik`, `Yapay Zeka`, `yapay-zeka`
-- **Dosyalar:** İçerikle uyumlu, açıklayıcı isimler.
-  - ✅ `ders_notu_hafta_1.md`, `final_sorulari_2023.pdf`
+  - ✅ `bilgisayar_muhendisligi`, `yapay_zeka_ve_veri_muhendisligi`
+  - ❌ `Bilgisayar Mühendisliği`, `Yapay Zeka`, `yapay-zeka`
+- **Dosyalar:** İçerikle uyumlu, küçük harf ve temiz İngilizce/Türkçe karakterler.
+  - ✅ `ders_notu_hafta_01.md`, `lab_uygulama.py`
 
-### 2. İçerik Kalitesi ("Gold Standard")
-Yeni bir ders eklerken veya mevcut bir dersi güncellerken lütfen `templates/COURSE_TEMPLATE.md` şablonunu kullanın.
-- **Zengin İçerik:** Sadece PDF yükleyip geçmeyin. Konu başlıklarını Markdown ile özetleyin.
-- **Görsellik:** Mermaid diyagramları veya şemalarla anlatımı güçlendirin.
+### 2. İçerik Kalitesi ve 7-Kademeli Protokol (00-06)
+Yeni bir alan veya ders modülü geliştirirken 7-kademeli mimariyi referans alın:
+- **`00 — Hazırlık & Oryantasyon`**: Terminoloji, oryantasyon ve hazırlık dökümanları.
+- **`01 — Teorik Temeller`**: Aksiyomatik prensipler, ilkeler ve temel bilimsel kanunlar.
+- **`02 — Çekirdek Uygulama`**: Alan dersleri, problem çözümleri ve laboratuvar çalışmaları.
+- **`03 — Seçmeli & İleri Uzmanlık`**: Niş alanlar ve derin uzmanlaşma notları.
+- **`04 — AR-GE & Sentez`**: Özgün projeler, açık kaynak kodlar ve araştırma çıktıları.
+- **`05 — Lisansüstü & Akademik Kariyer`**: Tez hazırlık, literatür taraması ve akademik makale analizleri.
+- **`06 — Sertifikasyon & Endüstri Standartları`**: Mesleki akreditasyonlar ve sektör normları.
 
 ---
 
 ## 🚀 Nasıl Katkıda Bulunabilirsiniz?
 
-### 📚 Yeni Ders Ekleme
-1. `mühendislik`, `hukuk` vb. ilgili ana kategoriye gidin.
-2. Bölüm klasörünün altına (yoksa oluşturun) ders adıyla yeni bir klasör açın (örn: `kontrol_sistemleri`).
-3. İçine bir `README.md` ekleyin ve şablonu uygulayın.
+> *“Paylaşılan bilgi çoğalan tek hazinedir.”* — **Farabi**
+
+### 📚 Yeni Ders / Not Ekleme
+1. İlgili ana kategoriye ve bölüm dizinine gidin.
+2. `templates/COURSE_TEMPLATE.md` dosyasını şablon olarak kullanın.
+3. İçeriği kuramsal temeller, pratik kod örnekleri ve kaynakça ile zenginleştirin.
+4. Yeni bir dal (branch) açıp PR oluşturun.
 
 ### 🐛 Hata Düzeltme & İyileştirme
-- Yazım hataları, kırık linkler veya güncel olmayan bilgiler için **Issue** açabilir veya doğrudan **PR** gönderebilirsiniz.
-- Commit mesajlarınızda ne yaptığınızı açıkça belirtin:
-  - `fix: hukuk/readme.md link düzeltmesi`
-  - `feat: yapay_zeka/ yeni etik makalesi eklendi`
+- Yazım hataları, kırık bağlantılar veya güncellenmesi gereken konular için **Issue** açabilir veya doğrudan **Pull Request** gönderebilirsiniz.
+- Anlamlı ve konvansiyonel commit mesajları kullanın:
+  - `fix: meta_muhendislik/yazilim_muhendisligi link duzeltmesi`
+  - `feat: yapay_zeka/02_Alan_Dersleri derin ogrenme notlari eklendi`
 
 ---
 
-## ⚖️ Hukuki Çekince
-Bu repoya eklediğiniz içeriklerin telif haklarını ihlal etmediğinden emin olun. Akademik dürüstlük (citation) kurallarına uyun.
+## ⚖️ Hukuki Çekince ve Lisans
+Bu depoya eklenen tüm materyaller **MIT Lisansı** kapsamında açık kaynaklıdır. Eklediğiniz içeriklerin telif haklarını ihlal etmediğinden emin olun ve akademik alıntı kurallarına riayet edin.
 
-Teşekkürler! 🎓
+Katkılarınız için teşekkür ederiz! 🎓
