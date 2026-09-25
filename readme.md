@@ -3,81 +3,123 @@
 ![UAOS Banner](assets/uaos_hero_banner.png)
 
 # 🌌 UNIVERSITY COURSES (UC)
-### *Solopreneur Intelligence System & Otonom Zeka Mimarisi* 🌐🧬🏗️
+### *Evrensel Akademik İşletim Sistemi & Solopreneur Bilgi Mimarisi* 🌐🧬🏗️
 
-[![Versiyon](https://img.shields.io/badge/%C3%87EK%C4%B0RDEK-v4.0--ETERNAL-00A9E0?style=for-the-badge&logo=target)](./)
-[![Zeka](https://img.shields.io/badge/M%C4%B0MAR-Antigravity_x_KULLANICI-D4AF37?style=for-the-badge&logo=openai&logoColor=white)](./)
+[![Versiyon](https://img.shields.io/badge/%C3%87EK%C4%B0RDEK-v4.5--ULTIMATE-00A9E0?style=for-the-badge&logo=target)](./)
+[![Mimar](https://img.shields.io/badge/M%C4%B0MAR-Yunus_%C3%87etin-D4AF37?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/arch-yunus)
 [![Repo](https://img.shields.io/badge/REPO-university--courses-black?style=for-the-badge&logo=github)](https://github.com/bahattinyunus/university-courses)
 [![Kapsam](https://img.shields.io/badge/KAPSAM-374_Disiplin-18453B?style=for-the-badge&logo=rocket)](./SUMMARY.md)
 [![Kademeler](https://img.shields.io/badge/KADEMELER-2618_Mod%C3%BCl-6f42c1?style=for-the-badge&logo=diagram)](./SUMMARY.md)
 
 ---
 
-## 🦾 ANTIGRAVITY MANİFESTOSU: BİREYSEL EGEMENLİK (SOLOPRENEUR DNA)
-**UC**, sadece bir akademik arşiv değil; **Yüksek Kaldıraçlı Bireyin (Solopreneur) Zeka Ekosistemi**dir. Bilginin demokratikleştiği ama derinliğin azaldığı bir çağda, asıl güç bilginin kendisinde değil, onun **Bireysel Üretime Dönüştürülme Mimarisinde** yatar.
+> *“Eğer daha uzağı görebildiysem, bu benden önceki devlerin omuzlarında durduğum içindir.”*  
+> — **Sir Isaac Newton**
 
-KULLANICI ve **Antigravity** iş birliğiyle, parçalanmış eğitimi geleneksel kurumların sınırlarının ötesine taşıyıp; ampirik titizliği, girişimci radikalizm ile birleştiriyoruz. Burası, bilgiyi sadece tüketen değil, onu bir **Epistemik Sermaye** (Epistemic Capital) olarak kullanan otonom zihinlerin karargahıdır.
+> *“İlim cesaret ister; cehaletin karanlığını sadece hakikatin sarsılmaz ışığı dağıtabilir.”*  
+> — **El-Farabi**
 
----
-
-## 🧠 SOLOPRENEURIAL EDGE: BİLGİYİ SERMAYEYE DÖNÜŞTÜRMEK
-UC, bilgiyi stratejik bir kaldıraç olarak kurgular. Mühendisliğin "Nasıl"ı ile Beşeri Bilimlerin "Neden"ini sentezliyoruz:
-- **Bilgi-Sermaye Dengesi:** Akademik derinliği girişimci hızla birleştirerek rakiplerin aşamayacağı teknik bir bariyer oluşturun.
-- **Bimodal Hakimiyet:** Hem teknik (kod/fizik) hem de idari/beşeri (hukuk/ikna) alanlarda aynı anda uzmanlaşarak "Tek Kişilik Ordu" kapasitesine ulaşın.
-- **Yapay Zeka Kaldıracı:** Antigravity ve ajan sistemlerini kullanarak akademik veriyi doğrudan pazar aksiyonuna ve üretim gücüne dönüştürün.
+> *“Basitlik, en üst düzeydeki gelişmişliktir.”*  
+> — **Leonardo da Vinci**
 
 ---
 
-## ⚙️ SİSTEMATİK YAPI: 7-KADEMELİ OTONOM PROTOKOL (00-06)
-UAOS, her bir bilgi modülünün temel teoriden endüstriyel düzeyde üretime kadar geliştirilmesini sağlayan rijit bir **Systemum Standardı** ile yönetilir:
+## 📜 EVRENSEL AKIL VE BİREYSEL EGEMENLİK MANİFESTOSU
+
+**University Courses (UC)**; sıradan bir ders notu arşivi veya pasif bir dokümantasyon havuzu değildir. **Yüksek Kaldıraçlı Bireyin (Solopreneur Polymath) Zihinsel Karargâhı ve Evrensel Bilgi İşletim Sistemi**dir.
+
+Bilginin hızla çoğaldığı ama derinliğin ve sentez gücünün aşındığı modern çağda, asıl üstünlük bilginin miktarında değil; onun **bütüncül kavranışında, felsefi temellendirilişinde ve somut üretime dönüştürülme mimarisindedir.**
+
+Eğitimi tek tip kalıpların ve hantal duvarların ötesine taşıyarak; **İslam Altın Çağı'nın polimatik dehasını, Rönesans'ın evrensel merakını ve modern bilişim çağının yüksek teknoloji disiplinini** tek bir epistemik çatı altında birleştiriyoruz.
+
+---
+
+## 🏛️ BÜYÜK DÜŞÜNÜRLER VE POLİMATLAR PANTEONU (THE POLYMATH PANTHEON)
+
+> *“Bütün bilimler birbirine bağlıdır; biri tam kavranmadan diğeri hakkıyla anlaşılamaz.”* — **Roger Bacon**
+
+### 1. 🧪 Bilim, Matematik ve Doğa Felsefesi
+*   > *“Matematik, doğanın gizli kalmış armonisini insan aklına tercüme eden ilahi dildir.”* — **Leonhard Euler**
+*   > *“Doğa kanunları öylesine kusursuz bir simetriye sahiptir ki, onları keşfetmek adeta bir ibadettir.”* — **Johannes Kepler**
+*   > *“Fizikte önemli olan gerçeği bulmaktır, popüler olanı değil.”* — **Richard Feynman**
+*   > *“Evren, matematiksel bir düşünceden ibarettir.”* — **Sir James Jeans**
+*   > *“Bir kuramın güzelliği, onun doğruluğunun en güçlü kanıtıdır.”* — **Paul Dirac**
+
+### 2. 👁️ Epistemoloji, Mantık ve Zihin Mimarisi
+*   > *“Zihin doldurulacak bir kap değil, tutuşturulacak bir meşaledir.”* — **Plutarkhos**
+*   > *“Mantık, aklı hataya düşmekten koruyan bir terazi ve hakikatin mihenk taşıdır.”* — **İbn-i Sînâ**
+*   > *“Aklını kullanma cesaretini göster! (Sapere Aude!)”* — **Immanuel Kant**
+*   > *“Şüphe etmek düşünmektir; düşünmek ise var olmaktır.”* — **René Descartes**
+*   > *“Dilimin sınırları, zihnimin evrenidir.”* — **Ludwig Wittgenstein**
+
+### 3. ⚙️ Mühendislik, Sibernetik ve Hesaplama Zekası
+*   > *“Makineler düşünebilir mi sorusu, denizaltılar yüzebilir mi sorusu kadar anlamsızdır.”* — **Edsger W. Dijkstra**
+*   > *“Geleceği tahmin etmeye çalışma; geleceği kodla ve inşa et.”* — **Alan Kay**
+*   > *“Entelektüel bir problemi çözmenin ilk adımı, onu çözülebilir alt bileşenlerine ayırmaktır.”* — **Claude Shannon**
+*   > *“Mükemmellik, eklenecek bir şey kalmadığında değil, çıkarılacak bir şey kalmadığında elde edilir.”* — **Antoine de Saint-Exupéry**
+*   > *“Bilgisayar bilimi, teleskopun astronomiyle ilişkisi neyse bilgisayarlarla o kadar ilgilidir; asıl mesele hesaplamanın doğasıdır.”* — **Hal Abelson**
+
+### 4. ⚔️ Strateji, İrade ve Bilişsel Disiplin (Stoic Mastery)
+*   > *“Dış olayları kontrol edemezsin, ama kendi zihnini ve tepkilerini her an kontrol edebilirsin.”* — **Marcus Aurelius**
+*   > *“Zorluklar olmasaydı, insanın büyüklüğü ve iradesi nasıl ortaya çıkardı?”* — **Epiktetos**
+*   > *“Planlar hiçbir şeydir, lakin planlama her şeydir.”* — **Dwight D. Eisenhower**
+*   > *“Stratejisi olmayan taktik, yenilgiden önceki son gürültüdür.”* — **Sun Tzu**
+*   > *“Kendine hakim olan, tüm dünyaya hakim olur.”* — **Lao Tzu**
+
+---
+
+## 🧠 POLİMATİK YAKLAŞIM: BİLGİYİ EPİSTEMİK SERMAYEYE DÖNÜŞTÜRMEK
+
+Modern dünyada uzmanlaşma daraldıkça, geniş disiplinleri birbirine bağlayan "T-Tipi" ve "Pi-Tipi" polimat zihinlerin değeri katlanarak artmaktadır:
+
+*   **Bimodal Derinlik:** Mühendisliğin ve pozitif bilimlerin *"Nasıl"*ı ile felsefe, sosyoloji ve hukukun *"Neden"*ini aynı zihinde sentezleyin.
+*   **İlk Prensiplerden Akıl Yürütme (First Principles):** Problemleri ezberlenmiş kalıplarla değil, doğanın en temel aksiyomlarına inerek çözün.
+*   **Fraktal Öğrenme Çemberi:** Her yeni bilgi düğümünü, mevcut kavramsal ağınıza (mental model) bağlayarak kalıcı zihinsel sermaye inşa edin.
+
+---
+
+## ⚙️ SİSTEMATİK YAPI: 7-KADEMELİ STANDARTLAŞTIRILMIŞ PROTOKOL (00-06)
+
+UAOS bünyesindeki her bir bilgi düğümü, çıraklıktan bağımsız üretim ustalığına kadar uzanan 7 kademeli bir omurga ile yönetilir:
 
 > [!TIP]
-> **Evrimsel Yol:** Veri -> Enformasyon -> Bilgi -> Otonom Bilgelik. Bu yapıyı pasif öğrenmeden (00-02) aktif üretime (04-06) geçmek için kullanın.
+> **Bilişsel Yolculuk:** `Veri ➔ Enformasyon ➔ Kuram ➔ Pratik ➔ İleri Uzmanlık ➔ AR-GE / Sentez ➔ Bağımsız Üretim`.
 
-1. **`00 — Hazırlık & Oryantasyon`**: Metodolojik kurulum ve yüksek verimli çalışma ortamı konfigürasyonu.
-2. **`01 — Teorik Temeller`**: İşin fiziği; aksiyomatik prensipler ve ilkeler üzerinden derin anlama.
-3. **`02 — Çekirdek Uygulama`**: Alan uzmanlığı; teorinin pratik karşılığını "çıraklık" seviyesinde uygulama.
-4. **`03 — Derin Uzmanlık (Niche Mastery)`**: Pazardaki boşlukları tespit edecek mikro-uzmanlık dökümantasyonu.
-5. **`04 — AR-GE & Otonom Sentez`**: Özgün ürün geliştirme ve akademik bilginin "Proof-of-Value" evresi.
-6. **`05 — Stratejik Entegrasyon`**: Çıktıların küresel standartlarla (ISO, IEEE) ve bilimsel metodolojiyle uyumu.
-7. **`06 — Bağımsız Üretim & Hakimiyet`**: Bilginin "Ürün-Pazar" uyumu; finansal egemenlik ve otonom iş yönetimi.
+```mermaid
+graph LR
+    A["00: Hazırlık & Dil"] --> B["01: Teorik Temeller"]
+    B --> C["02: Alan Dersleri"]
+    C --> D["03: İleri Uzmanlık"]
+    D --> E["04: AR-GE & Sentez"]
+    E --> F["05: Akademik Kariyer"]
+    F --> G["06: Standartlar & Hakimiyet"]
+    style A fill:#00A9E0,stroke:#333,stroke-width:2px,color:#fff
+    style G fill:#D4AF37,stroke:#333,stroke-width:2px,color:#000
+```
 
----
-
-## 🏛️ ARCHITECTURAL VISION: THE EPISTEMIC SYNTHESIS
-UAOS, bilim ve bilgeliğin birleştiği bir dünyanın dijital tezahürüdür. Teknik titizliğin felsefi derinlikle dengelendiği bir **"Bimodal Uzmanlık"** modeli kullanıyoruz:
-
-| 🧩 Temel Düstur | 🏗️ UAOS Operasyonel Prensibi |
-| :--- | :--- |
-| **"Eyleme dökülmeyen bilgi gürültüdür."** | **Otonom Üretim-Öncelikli Emir** |
-| **"Etik ve Mühendislik Tek Bir Birimdir."** | **Bimodal Bütünlük Entegrasyonu** |
-| **"Sistemik Düzen, Ustalığın Anahtarıdır."** | **Hiyerarşik Epistemolojik Hassasiyet** |
-
----
-
-## 🛠️ ZEKA KATMANI (TEMEL ARAÇLAR)
-UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve genişletilir:
-- **Bilişsel Motor:** Gemini 2.0 & Claude 3.5 Sonnet (Sentezleyiciler)
-- **Ajan Mimar:** **Antigravity** (Sistem Yönetimi & Kodlama)
-- **Derin Araştırma:** Perplexity Pro & Akademik API Entegrasyonu
-- **Bilgi İşletim Sistemi:** Obsidian & Yüksek Yoğunluklu Markdown Grafiği
-
----
-
-## 🎯 OPERASYON REHBERİ: UAOS NASIL YÖNETİLİR?
-1. **Seçim:** [SUMMARY.md](./SUMMARY.md) veya aşağıdaki tablolardan hedef alanı seçin.
-2. **Standartlaştırma:** 00-06 protokolüne sadık kalarak kademeleri adım adım takip edin.
-3. **Aktif Sentez:** Orijinal, otonom projeler ve notlar üretmek için Katman 04'ü kullanın.
-4. **Ajan Etkileşimi:** Disiplinler arası bağlantılar kurmak ve kalıpları tespit etmek için yapay zeka ajanlarından yararlanın.
+1. **`00 — Akademik Hazırlık ve Dil`**: Terminoloji, metodolojik kurulum ve küresel dil yetkinliği.
+2. **`01 — Temel Bilimler ve Giriş`**: Aksiyomatik prensipler, doğa kanunları ve kuramsal omurga.
+3. **`02 — Alan Dersleri ve Pratik`**: Disiplinin çekirdek müfredatı, laboratuvar ve problem çözümleri.
+4. **`03 — Seçmeli & İleri Uzmanlık`**: Niş alanlar, derinleşme modülleri ve mikro-uzmanlıklar.
+5. **`04 — Araştırma, AR-GE ve Sentez`**: Özgün projeler, açık kaynak kodlama ve Proof-of-Concept üretimi.
+6. **`05 — Lisansüstü ve Akademik Kariyer`**: Literatür taraması, tez çalışmaları ve akademik yayın hazırlığı.
+7. **`06 — Sertifikasyon ve Endüstriyel Standartlar`**: Uluslararası akreditasyonlar, ISO/IEEE normları ve sektörel yetkinlik.
 
 ---
 
 ## 📖 THE UNIVERSAL DISCIPLINE MATRIX (374 BÖLÜM / 2618 KADEME)
 
+Tüm akademik ve profesyonel disiplinler açık, doğrudan erişilebilir ve yapılandırılmış 3-sütunlu ızgarada listelenmiştir.
+
 </div>
 
-### 👁️ Epistemik Vizyon & Felsefe
-> *“Bilgi bir ışıktır; onu arayan zihin karanlıkta kalmaz. Hakikatin peşinde olmak en yüce ibadettir.”* — **El-Bîrûnî**
+### 👁️ Epistemik Vizyon & Bilgi Felsefesi (3 Alan)
+
+> *“Bilgi bir ışıktır; onu samimiyetle arayan zihin karanlıkta kalmaz. Hakikatin peşinde olmak en yüce insanlık görevidir.” — **El-Bîrûnî***
+
+> *“Bütün insanlar doğal olarak bilmek isterler. Bilgelik, ilk ilkelerin ve nedenlerin bilimidir.” — **Aristoteles***
+
+> *“Kendini bilmek, tüm bilgeliğin başlangıcıdır.” — **Sokrates***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -85,8 +127,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 🛠️ Mühendislik & İleri Teknoloji
-> *“Bilim insanları var olan dünyayı inceler; mühendisler ise daha önce hiç var olmamış dünyaları yaratır.”* — **Theodore von Kármán**
+### 🛠️ Mühendislik & İleri Teknoloji Bilimleri (64 Alan)
+
+> *“Bilim insanları var olan dünyayı inceler; mühendisler ise daha önce hiç var olmamış dünyaları yaratır.” — **Theodore von Kármán***
+
+> *“Bir makine insan emeğini hafifletmiyorsa ve zihni özgürleştirmiyorsa, sadece karmaşık bir demir yığınıdır.” — **Nikola Tesla***
+
+> *“Mühendislik, bilimi insanlığın refahı için gerçeğe dönüştürme sanatıdır.” — **Neil Armstrong***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -115,8 +162,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 🏛️ Mimarlık, Tasarım & Şehircilik
-> *“Mimarlık, taşın ve ışığın sessiz şiiridir; mekân ise insan ruhunun biçim bulmuş halidir.”* — **Mimar Sinan**
+### 🏛️ Mimarlık, Tasarım & Mekânsal Şehircilik (15 Alan)
+
+> *“Mimarlık, taşın ve ışığın sessiz şiiridir; mekân ise insan ruhunun biçim bulmuş halidir.” — **Mimar Sinan***
+
+> *“Biçim daima işlevi takip eder; bu doğanın en temel yasasıdır.” — **Louis Sullivan***
+
+> *“Bir binayı tasarlarken, geleceğin hatıralarını inşa edersiniz.” — **Juhani Pallasmaa***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -128,8 +180,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 🖼️ Güzel Sanatlar & Estetik
-> *“Sanat, doğanın gizemlerini keşfetme ve görünmeyeni görünür kılma çabasıdır.”* — **Leonardo da Vinci**
+### 🖼️ Güzel Sanatlar, Estetik & Görsel Kültür (8 Alan)
+
+> *“Sanat, doğanın gizemlerini keşfetme ve görünmeyeni görünür kılma çabasıdır.” — **Leonardo da Vinci***
+
+> *“Sanat, ruhlarımızdaki günlük hayatın tozunu silip süpürür.” — **Pablo Picasso***
+
+> *“Güzellik, hakikatin parıltısıdır.” — **Platon***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -139,8 +196,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 🩺 Sağlık Bilimleri & Tıp
-> *“Şifanın esası bedenin ve ruhun ahengini kavramaktır; tıp, insanın doğayla uyum sanatıdır.”* — **İbn-i Sînâ (Avicenna)**
+### 🩺 Sağlık Bilimleri, Klinik Tıp & Yaşam (30 Alan)
+
+> *“Şifanın esası bedenin ve ruhun ahengini kavramaktır; tıp, insanın doğayla uyum sanatıdır.” — **İbn-i Sînâ (Avicenna)***
+
+> *“Hastalık yoktur, hasta vardır; doğanın iyileştirici gücü hekimin en büyük yardımcısıdır.” — **Hipokrat***
+
+> *“Bedeninize iyi bakın; yaşamak zorunda olduğunuz yegâne eviniz orasıdır.” — **Jim Rohn***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -157,8 +219,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 🎓 Eğitim Fakültesi & Pedagoji
-> *“Bana bir harf öğretenin kırk yıl kölesi olurum; zira akılları inşa edenler medeniyetin hakiki mimarlarıdır.”* — **Hz. Ali**
+### 🎓 Eğitim Fakültesi, Pedagoji & Didaktik (16 Alan)
+
+> *“Bana bir harf öğretenin kırk yıl kölesi olurum; zira akılları inşa edenler medeniyetin hakiki mimarlarıdır.” — **Hz. Ali***
+
+> *“Eğitim, dünyayı değiştirmek için kullanabileceğiniz en güçlü silahtır.” — **Nelson Mandela***
+
+> *“Öğretmek, iki kez öğrenmektir.” — **Joseph Joubert***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -171,8 +238,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 🏅 Spor Bilimleri & Performans
-> *“Bedenin terbiyesi zihnin keskinliğidir; disiplin, arzu ile başarı arasındaki köprüdür.”* — **Platon**
+### 🏅 Spor Bilimleri, Kinetik & Fiziksel Performans (8 Alan)
+
+> *“Bedenin terbiyesi zihnin keskinliğidir; disiplin, arzu ile başarı arasındaki köprüdür.” — **Platon***
+
+> *“Hiç kimse bedeninin ulaşabileceği potansiyeli görmeden yaşlanma hakkına sahip değildir.” — **Sokrates***
+
+> *“Zorluklar bedeni güçlendirir, tıpkı çalışma ve tefekkürün zihni güçlendirdiği gibi.” — **Seneca***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -182,8 +254,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### ⚖️ Sosyal, Beşeri & İdari Bilimler
-> *“Coğrafya kaderdir; lakin toplumların yükselişi ve çöküşü adalet, asabiyet ve üretim dengesine bağlıdır.”* — **İbn-i Haldun**
+### ⚖️ Sosyal, Beşeri, İdari & Davranışsal Bilimler (39 Alan)
+
+> *“Coğrafya kaderdir; lakin toplumların yükselişi ve çöküşü adalet, asabiyet ve üretim dengesine bağlıdır.” — **İbn-i Haldun***
+
+> *“Düşünüyorum, öyleyse varım.” — **René Descartes***
+
+> *“İncelenmemiş bir hayat, yaşanmaya değer değildir.” — **Sokrates***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -203,8 +280,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 🧪 Temel Fen Bilimleri
-> *“Evrenin kitabı matematik dilinde yazılmıştır; onun harfleri üçgenler, daireler ve geometrik formlardır.”* — **Galileo Galilei**
+### 🧪 Temel Fen Bilimleri (Fizik, Kimya, Matematik) (12 Alan)
+
+> *“Evrenin kitabı matematik dilinde yazılmıştır; onun harfleri üçgenler, daireler ve geometrik formlardır.” — **Galileo Galilei***
+
+> *“Doğanın sırlarını çözmek istiyorsanız; enerji, frekans ve titreşim cinsinden düşünün.” — **Nikola Tesla***
+
+> *“Matematik, insan aklının ulaştığı en yüce ve en soyut zaferdir.” — **Carl Friedrich Gauss***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -215,8 +297,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 📚 Filoloji, Dil & Edebiyat
-> *“Dilimin sınırları, dünyamın sınırlarıdır; kelimeler düşüncenin yaşayan heykelleridir.”* — **Ludwig Wittgenstein**
+### 📚 Filoloji, Dilbilim & Dünya Edebiyatı (17 Alan)
+
+> *“Dilimin sınırları, dünyamın sınırlarıdır; kelimeler düşüncenin yaşayan heykelleridir.” — **Ludwig Wittgenstein***
+
+> *“Bir dili bilmek bir insan olmaktır, iki dil bilmek iki insan olmaktır.” — **Johann Wolfgang von Goethe***
+
+> *“Kitaplar, zamanın dalgaları üzerinde yüzen ve nesilden nesle değer taşıyan düşünce gemileridir.” — **Francis Bacon***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -229,8 +316,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 📡 İletişim & Medya Bilimleri
-> *“Ortam, mesajın ta kendisidir; insan iletişim kurduğu ve anlam ürettiği ölçüde var olur.”* — **Marshall McLuhan**
+### 📡 İletişim, Medya Ekolojisi & Dijital Anlatı (4 Alan)
+
+> *“Ortam, mesajın ta kendisidir; insan iletişim kurduğu ve anlam ürettiği ölçüde var olur.” — **Marshall McLuhan***
+
+> *“İletişimdeki en büyük sorun, anlaşıldığı yanılsamasıdır.” — **George Bernard Shaw***
+
+> *“Doğru söz etkileyicidir, ama yerinde bir sükût hiçbir söze değişilmez.” — **Mark Twain***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -239,8 +331,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 🏨 Turizm, Otelcilik & Gastronomi
-> *“Dünyayı gezmek zihindeki sınırları kaldırır; lezzet ve misafirperverlik ise insanlığın ortak lisanıdır.”* — **Evliya Çelebi**
+### 🏨 Turizm, Ağırlama & Gastronomi Sanatı (7 Alan)
+
+> *“Dünyayı gezmek zihindeki önyargıları kaldırır; lezzet ve misafirperverlik ise insanlığın ortak lisanıdır.” — **Evliya Çelebi***
+
+> *“Yemek yemek bir zorunluluktur, ancak akıllıca ve zevkle yemek bir sanattır.” — **François de La Rochefoucauld***
+
+> *“Yolculuk, sadece yeni manzaralar görmek değil; dünyaya yeni gözlerle bakabilmektir.” — **Marcel Proust***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -250,8 +347,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 🌱 Tarım, Ziraat & Doğa Bilimleri
-> *“Toprak berekettir; tohumu sabır, emek ve ilimle işleyen milletin hakiki efendisidir.”* — **Mustafa Kemal Atatürk**
+### 🌱 Tarım, Ziraat, Biyosistem & Doğa Bilimleri (8 Alan)
+
+> *“Toprak berekettir; tohumu sabır, emek ve ilimle işleyen milletin hakiki efendisidir.” — **Mustafa Kemal Atatürk***
+
+> *“Toprak işlenmedikçe zenginlik vermez; doğanın yasalarına uymayan hiçbir sistem ayakta kalamaz.” — **Ksenophon***
+
+> *“Ektiğini biçmek sadece tarımın değil, evrensel adaletin de kanunudur.” — **Cicero***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -261,8 +363,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### ⚔️ Askeri Bilimler ve Savunma
-> *“En büyük zafer, savaşmadan kazanılan zaferdir; strateji kuvvetten, akıl silahtan üstündür.”* — **Sun Tzu**
+### ⚔️ Savunma Sanayii, Harp Doktrini & Askeri Strateji (6 Alan)
+
+> *“En büyük zafer, savaşmadan kazanılan zaferdir; strateji kuvvetten, akıl silahtan üstündür.” — **Sun Tzu***
+
+> *“Savaş, siyasetin başka araçlarla devamıdır; hazırlıklı olan milletler barışın teminatıdır.” — **Carl von Clausewitz***
+
+> *“Cesaret tehlike karşısında aklın sükunetini korumasıdır.” — **Plutarkhos***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -271,8 +378,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### ⚖️ Adalet & Hukuk Bilimleri
-> *“Adalet mülkün temelidir; hukukun bittiği yerde tiranlık, karmaşa ve haksızlık başlar.”* — **John Locke**
+### ⚖️ Adalet, Hukuk Kuramı & Yasal Düzen (2 Alan)
+
+> *“Adalet mülkün temelidir; hukukun bittiği yerde tiranlık, karmaşa ve haksızlık başlar.” — **John Locke***
+
+> *“Devletin nihai amacı özgürlüktür; adalet ise o özgürlüğün koruyucu kalkanıdır.” — **Baruch Spinoza***
+
+> *“Hukuk, aklın tutkulardan arınmış sesidir.” — **Aristoteles***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -280,8 +392,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 📚 İlahiyat, Karşılaştırmalı Din & Felsefe
-> *“İlim ilim bilmektir, ilim kendin bilmektir; sen kendini bilmezsin, ya nice okumaktır.”* — **Yunus Emre**
+### 📚 İlahiyat, Dinler Tarihi & Karşılaştırmalı Felsefe (1 Alan)
+
+> *“İlim ilim bilmektir, ilim kendin bilmektir; sen kendini bilmezsin, ya nice okumaktır.” — **Yunus Emre***
+
+> *“Aklını kullanmayanların üzerine pislik yağar.” — **Yunus Suresi, 100***
+
+> *“Hakikat nereden gelirse gelsin onu kabul etmek gerekir; hakikatten daha değerli bir şey yoktur.” — **El-Kindî***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -289,8 +406,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 📋 Mesleki Yüksekokul (Ön Lisans Programları)
-> *“Uygulamaya dökülmeyen bilgi bir yüktür; maharet ve teknik ustalık teorinin can damarıdır.”* — **El-Cezerî**
+### 📋 Mesleki Yüksekokul & Uygulamalı Teknik Disiplinler (72 Alan)
+
+> *“Uygulamaya dökülmeyen bilgi bir yüktür; maharet ve teknik ustalık teorinin can damarıdır.” — **El-Cezerî***
+
+> *“Bir işi iyi yapmak, ona ruhunu ve emeğini katmak demektir.” — **Ahi Evran***
+
+> *“Bana anlatırsan unuturum, gösterirsen hatırlarım, yaptırırsan anlarım.” — **Konfüçyüs***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -321,8 +443,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 🔬 Özel Araştırma & Disiplinlerarası Alanlar
-> *“Geleceği tahmin etmenin en emin yolu, onu bizzat inşa etmektir.”* — **Alan Kay**
+### 🔬 Özel Araştırma, Füzyon & Sınır Disiplinler (39 Alan)
+
+> *“Geleceği tahmin etmenin en emin yolu, onu bizzat icat etmektir.” — **Alan Kay***
+
+> *“Hayal gücü bilgiden daha önemlidir; çünkü bilgi sınırlıyken hayal gücü tüm dünyayı kucaklar.” — **Albert Einstein***
+
+> *“Sadece sınırları aşmayı göze alanlar, ne kadar ileri gidebileceklerini keşfedebilirler.” — **T. S. Eliot***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -342,8 +469,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 🚀 Kariyer, Portfolyo & Sertifikasyonlar
-> *“Şans, yalnızca hazırlıklı ve yetkin zihinlere güler; profesyonel ustalık kesintisiz inşa edilir.”* — **Louis Pasteur**
+### 🚀 Kariyer, Portfolyo, Standartlar & Sertifikasyon (12 Alan)
+
+> *“Şans, yalnızca hazırlıklı ve yetkin zihinlere güler; profesyonel ustalık kesintisiz inşa edilir.” — **Louis Pasteur***
+
+> *“Kalite bir eylem değil, bir alışkanlıktır.” — **Will Durant (Aristoteles yorumu)***
+
+> *“Yaptığınız işi mükemmel yapın; öyle ki insanlar sizi görmezden gelemesin.” — **Steve Martin***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -354,8 +486,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 🧠 Meta-Yetkinlikler ve Gelişim
-> *“Düşünceleriniz ne ise hayatınız da odur; kendi zihnini yöneten, tüm dünyaya yön verir.”* — **Marcus Aurelius**
+### 🧠 Meta-Zihin, Otonom İrade & Bilişsel Disiplin (8 Alan)
+
+> *“Düşünceleriniz ne ise hayatınız da odur; kendi zihnini yöneten, tüm dünyaya yön verir.” — **Marcus Aurelius***
+
+> *“İnsanın en büyük zaferi, kendi nefsine ve zaaflarına karşı kazandığı zaferdir.” — **Platon***
+
+> *“Rüzgarın yönünü değiştiremezsiniz, ancak yelkenlerinizi hedefinize göre ayarlayabilirsiniz.” — **Epiktetos***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -365,8 +502,13 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 ---
 
-### 📂 Genel ve Ortak Alanlar
-> *“Bütün büyük işler, küçük ve disiplinli adımların kararlılıkla bir araya gelmesiyle gerçekleşir.”* — **Vincent van Gogh**
+### 📂 Genel Metodoloji, Arşiv & Ortak Alanlar (3 Alan)
+
+> *“Bütün büyük işler, küçük ve disiplinli adımların kararlılıkla bir araya gelmesiyle gerçekleşir.” — **Vincent van Gogh***
+
+> *“Damlayan su taşı deler; gücünden değil, sürekliliğinden.” — **Ovidius***
+
+> *“Yolculuğun kendisi varış noktasından daha öğreticidir.” — **Konfüçyüs***
 
 |   |   |   |
 | :--- | :--- | :--- |
@@ -376,55 +518,47 @@ UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve
 
 <div align="center">
 
-## 🧠 SİSTEMATİK ÖĞRENME METODOLOJİSİ
-Bu kütüphanedeki verimi maksimize etmek için aşağıdaki **ileri düzey öğrenme konseptlerini** kendi öğrenme süreçlerinize entegre etmeniz önerilir:
+## 🧠 SİSTEMATİK ÖĞRENME METODOLOJİLERİ
+Bu kütüphanedeki verimi en üst düzeye çıkarmak için kanıtlanmış bilişsel metodolojileri uygulayın:
 
-*   **Zettelkasten Metodu:** Farklı disiplinlerden öğrendiklerinizi (örn. kuantum fiziği ve felsefe) küçük not kartları halinde birbirine bağlayarak yeni, inovatif fikirler (emergent ideas) üretin.
-*   **Feynman Tekniği:** Uzmanlaşmak istediğiniz karmaşık bir teoriyi, sanki konuyu hiç bilmeyen birine anlatıyormuş gibi basitleştirin.
-*   **Spaced Repetition (Aralıklı Tekrar):** Öğrendiğiniz kavramların unutulma eğrisini kırmak için, stratejik aralıklarla geri dönüp tekrarlar yapın.
-*   **First Principles Thinking (İlk Prensiplerden Düşünme):** Karmaşık problemleri en temel, tartışmasız gerçeklerine indirgeyin ve çözümleri bu temel yapı taşları üzerinden yeniden inşa edin.
+*   **Zettelkasten ve Bağlamsal Düşünce:** Notlarınızı izole depolamak yerine birbirine bağlayarak disiplinlerarası yeni fikirler üretin.
+*   **Feynman Tekniği:** Bir konuyu gerçekten anlamak için, onu en temel diliyle ve analojilerle basitleştirerek açıklayın.
+*   **Aralıklı Tekrar (Spaced Repetition):** Belleğin unutma eğrisini yenmek için bilgiyi düzenli aralıklarla geri çağırın.
+*   **İlk Prensiplerden Çözümleme (First Principles):** Karmaşık sistemleri en temel doğrularına indirgeyip sıfırdan inşa edin.
 
 ---
 
 ## 🗺️ PROJE YOL HARİTASI (ROADMAP)
-Bu platform, statik bir depodan ziyade, sürekli gelişen organik bir yapıdır. Kısa ve orta vadeli gelişim hedeflerimiz şunlardır:
 
-- [x] **Faz 1:** Temel mühendislik ve bilim disiplinlerinin iskeletinin oluşturulması.
-- [x] **Faz 2:** Universal Discipline Matrix'in (374 Akademik Alan / 2618 Kademe) entegrasyonu.
-- [x] **Faz 3:** CI/CD otomatik repo bütünlüğü ve indeks doğrulama hattı.
-- [ ] **Faz 4:** AI tabanlı navigasyon ve akıllı asistan desteklerinin dökümantasyona eklenmesi.
-- [ ] **Faz 5:** Web3 ve Merkeziyetsiz Eğitim (DeEd) prensiplerinin entegrasyonu.
-- [ ] **Faz 6:** İngilizce dil desteği (Global adaptasyon).
+- [x] **Faz 1:** Temel mühendislik ve bilim disiplinlerinin 7-kademeli iskeletinin oluşturulması.
+- [x] **Faz 2:** Universal Discipline Matrix (374 Akademik Alan / 2618 Kademe) entegrasyonu.
+- [x] **Faz 3:** CI/CD otomatik repo bütünlüğü ve indeks doğrulama test hattı.
+- [ ] **Faz 4:** İnteraktif navigasyon araçları ve arama indeksleyicileri.
+- [ ] **Faz 5:** Uluslararası çok dilli akademik genişleme.
 
 ---
 
 ## ❓ SIKÇA SORULAN SORULAR (SSS)
 
-**S: Neden her şey tek bir depoda toplanıyor?**  
-**C:** Çünkü gerçek dünya problemleri laboratuvar ortamındaki gibi izole değildir. Bir makine mühendisinin psikoloji, bir tıp öğrencisinin kodlama bilmesi, onları standart profesyonellerin ötesine geçirerek "inovatif yaratıcılar" yapar. Bu depo, bu disiplinler arası geçişkenliği sağlamak içindir.
+**S: Neden bu kadar geniş ve çok disiplinli bir yapı kuruldu?**  
+**C:** Çünkü gerçek dünya ve çığır açan keşifler tek bir alana sıkışmış değildir. Tıbbı yapay zekayla, hukuku bilişimle, mühendisliği felsefeyle sentezleyebilen zihinler geleceği inşa edecektir.
 
-**S: İçerikler tamamen ücretsiz mi?**  
-**C:** Evet, bu havuz **MIT Lisansı** ile korunmaktadır. Bilginin herkes için serbest, açık ve erişilebilir olması gerektiğine inanıyoruz.
-
-**S: Bu devasa kütüphanede nasıl kaybolmam?**  
-**C:** Yalnızca o an çözmekte olduğunuz probleme veya inşa ettiğiniz projeye odaklanın (*"Just-in-Time Learning"*). Baştan sona her şeyi okumaya çalışmak yerine, kütüphaneyi bir başvuru ve ilham kaynağı olarak araçsallaştırın.
+**S: İçerikler tamamen açık kaynak ve ücretsiz mi?**  
+**C:** Evet, tüm sistem **MIT Lisansı** altında korunmakta olup, bilgiye erişim evrensel bir insanlık hakkıdır.
 
 ---
 
 ## 🤝 KATKIDA BULUNMA
-Bu kütüphane açık kaynaklı ve kolektif bir zekanın ürünü olarak büyümektedir. Yeni bir ders eklemek, var olan içeriği güncellemek veya hataları düzeltmek isterseniz, lütfen [CONTRIBUTING.md](./CONTRIBUTING.md) dosyasını inceleyin ve bir Pull Request (PR) oluşturun. Ayrıca topluluk standartlarımız için [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) dosyasını okuyabilirsiniz.
+Bu kütüphane kolektif aklın ve açık bilimin bir tezahürü olarak büyümektedir. Katkı sağlamak için [CONTRIBUTING.md](./CONTRIBUTING.md) rehberini inceleyebilir ve Pull Request gönderebilirsiniz. Topluluk normları için [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) belgesine bakabilirsiniz.
 
 ---
 
-## ⚖️ YASAL YÖNETİŞİM VE EPİSTEMİK HAKİMİYET
-Bu proje, yüksek sadakatli bilginin serbest değişimini ve bireysel zihin otonomisini savunarak **MIT Lisansı** altında lisanslanmıştır. Bilgi, tüm insanlığın ortak mirasıdır ve kısıtlanamaz. Detaylar için [LICENSE](./LICENSE) dosyasına göz atabilirsiniz.
+## ⚖️ YASAL YÖNETİŞİM VE LİSANS
+Bu proje **MIT Lisansı** altında lisanslanmıştır. Bilgi insanlığın ortak mirasıdır. Detaylar için [LICENSE](./LICENSE) dosyasına göz atabilirsiniz.
 
-**Mimari İş Birliği**  
+**Mimari ve Tasarım**  
 ### Bahattin Yunus Çetin  
-*Baş Mühendis ve Epistemik Araştırmacı*  
-x  
-### Antigravity  
-*Otonom Sistemler Mimarı*
+*Yazılım Mühendisi & Araştırmacı*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bahattinyunuscetin) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bahattinyunus)
