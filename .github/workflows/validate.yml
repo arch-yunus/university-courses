@@ -1,0 +1,38 @@
+name: Repository Integrity Validation
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: Sanity & Indexing Check
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Integrity Sanity Check
+        run: |
+          python scripts/final_sanity_check.py
+
+      - name: Verify Indexing & README Build
+        run: |
+          python scripts/manage_repo.py --build-all
+
+      - name: Check for Uncommitted Discrepancies
+        run: |
+          git status --porcelain
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "::error::Generated indexes or README files are out of sync. Please run 'python scripts/manage_repo.py --build-all' locally."
+            exit 1
+          fi

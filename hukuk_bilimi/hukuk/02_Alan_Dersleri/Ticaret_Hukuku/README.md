@@ -1,3 +1,13 @@
 # Ticaret Hukuku
 
-Bu klasör Hukuk branşının çekirdek dersi olan Ticaret Hukuku akademik notları içindir.
+> Sirket, sigorta ve rekabet hukuku.
+
+## Ders Plani
+- [ ] Sirketler Hukuku
+- [ ] Kiymetli Evrak
+- [ ] Sigorta Hukuku
+- [ ] Rekabet Hukuku
+- [ ] Iflas ve Icra
+
+## Notlar
+*Henuz not eklenmedi.*

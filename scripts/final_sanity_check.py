@@ -1,20 +1,21 @@
 import os
 
-ROOT_DIR = r"g:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\github repolarım\engineering-courses"
-
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EXCLUDE_DIRS = {'.git', '.vs', '.github', 'scripts', 'assets', 'templates'}
 
 def final_sanity_check():
     errors = []
     dept_count = 0
     tier_count = 0
+    container_count = 0
     
-    for container in os.listdir(ROOT_DIR):
+    for container in sorted(os.listdir(ROOT_DIR)):
         c_path = os.path.join(ROOT_DIR, container)
         if not os.path.isdir(c_path) or container in EXCLUDE_DIRS:
             continue
             
-        for dept in os.listdir(c_path):
+        container_count += 1
+        for dept in sorted(os.listdir(c_path)):
             d_path = os.path.join(c_path, dept)
             if not os.path.isdir(d_path):
                 continue
@@ -37,16 +38,26 @@ def final_sanity_check():
                 if not tier_found:
                     errors.append(f"Missing Tier Directory 0{i}: {container}/{dept}")
 
-    print(f"Sanity Check Results:")
-    print(f"Total Departments Verified: {dept_count}")
-    print(f"Total Tiers Verified: {tier_count}")
+    print("==================================================")
+    print("           REPOSITORY INTEGRITY REPORT            ")
+    print("==================================================")
+    print(f"Containers Verified  : {container_count}")
+    print(f"Departments Verified : {dept_count}")
+    print(f"Tiers (00-06) Verified: {tier_count}")
+    print("--------------------------------------------------")
     
     if not errors:
-        print("ALL CLEAR: Every node is present and has a README.")
+        print("[SUCCESS] ALL CLEAR: Every node is present and has a valid README.")
+        print("==================================================")
+        return True
     else:
-        print(f"FOUND {len(errors)} ANOMALIES.")
-        for e in errors[:10]: # Print first 10
-            print(f"- {e}")
+        print(f"[FAILED] FOUND {len(errors)} ANOMALIES:")
+        for e in errors[:20]:
+            print(f"  - {e}")
+        print("==================================================")
+        return False
 
 if __name__ == "__main__":
-    final_sanity_check()
+    success = final_sanity_check()
+    if not success:
+        exit(1)
